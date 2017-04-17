@@ -23,6 +23,7 @@ import Resources from './components/resources.vue'
 import OrderOils from './components/order-oils.vue'
 import LoyaltyRewards from './components/loyalty-rewards.vue'
 import NotFound from './components/not-found.vue'
+import StarterKits from './components/starter-kits.vue'
 
 Vue.use(VueResource)
 Vue.use(VueJsonp, 8000)
@@ -43,6 +44,7 @@ const routes = [
   {path: '/resources', component: Resources},
   {path: '/how-to-order', component: OrderOils},
   {path: '/loyalty-rewards', component: LoyaltyRewards},
+  {path: '/starter-kits', component: StarterKits},
   {path: '*', component: NotFound}
 ]
 
@@ -71,6 +73,7 @@ new Vue({ // eslint-disable-line no-new
     WhyDoterra,
     OrderOils,
     LoyaltyRewards,
+    StarterKits,
     NotFound
   }
 })
