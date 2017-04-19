@@ -1,7 +1,7 @@
 <template lang="html">
     <div class="about-wrapper">
         <div id="content">
-          <section class="sub-banner" style="background:url(images/beach.jpg) fixed no-repeat center; background-size: 100% auto">
+          <section class="sub-banner" style="background:url(images/new_family_pic.jpg) fixed no-repeat center; background-size: 100% auto">
             <div class="container">
               <div class="position-center-center">
                 <h2>HELLO, I’M MICHELLE CANNON</h2>

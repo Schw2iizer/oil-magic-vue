@@ -12,9 +12,9 @@
             <div class="container">
               <div class="relative">
                 <div class="heading-block no-margin-bottom">
-                  <h4 class="margin-bottom-20 margin-top-0 letter-space-1">Co-Impact Sourcing by doTERRA helps health-conscious individuals find safe alternatives while also lifting entire communities and giving them a hope for the future. As part of doTERRA's promise to provide pure, potent, consistent essential oils, Co-Impact Sourcing ensures that the doTERRA CPTG Certified Pure Therapeutic Grade process starts at the source. Two-thirds of the countries we are working with are developing countries.</h4>
+                  <p class="margin-bottom-10 margin-top-0">Co-Impact Sourcing by doTERRA helps health-conscious individuals find safe alternatives while also lifting entire communities and giving them a hope for the future. As part of doTERRA's promise to provide pure, potent, consistent essential oils, Co-Impact Sourcing ensures that the doTERRA CPTG Certified Pure Therapeutic Grade process starts at the source. Two-thirds of the countries we are working with are developing countries.</p>
 
-                  <h4>We have an opportunity to make a difference in countries through ways such as job creation and helping form organizations and cooperatives through Co-Impact Sourcing.</h4>
+                  <p>We have an opportunity to make a difference in countries through ways such as job creation and helping form organizations and cooperatives through Co-Impact Sourcing.</p>
                 </div>
                 <hr>
                 <div class="padding-top-20 youtube-wrapper">

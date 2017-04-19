@@ -74,8 +74,3 @@ new Vue({ // eslint-disable-line no-new
     NotFound
   }
 })
-
-// const app = new Vue({
-//   router,
-//   el: '#app'
-// })

@@ -12,13 +12,13 @@
             <div class="container">
               <div class="relative">
                 <div class="heading-block no-margin-bottom">
-                  <h2 class="margin-bottom-20 margin-top-0 letter-space-1">Life Long Vitality vitamins</h2>
+                  <h2 class="margin-bottom-20 margin-top-0">Life Long Vitality vitamins</h2>
                 </div>
                 <p>dōTERRA's Lifelong Vitality supplements are formulated with potent levels of essential nutrients and powerful metabolic factors for optimal health,    energy, and longevity. Coupled with dōTERRA's CPTG Certified Pure Therapeutic Grade essential oils and a lifelong commitment to dōTERRA's wellness lifestyle, they naturally support a lifetime of looking, feeling and living younger, longer.
                 </p>
                 <hr>
                 <div class="heading-block no-margin-bottom">
-                  <h2 class="margin-bottom-20 margin-top-0 letter-space-1">The top 10 oils!</h2>
+                  <h2 class="margin-bottom-20 margin-top-0">The top 10 oils!</h2>
                 </div>
                 <p>The Family Essentials Kit is a collection of ten nurturing essential oils, including six single oils and four blends. <br>
 
@@ -28,7 +28,7 @@
                 </p>
                 <hr>
                 <div class="heading-block no-margin-bottom">
-                  <h2 class="margin-bottom-20 margin-top-0 letter-space-1">Chocolate Slim &amp; Sassy TrimShake</h2>
+                  <h2 class="margin-bottom-20 margin-top-0">Chocolate Slim &amp; Sassy TrimShake</h2>
                 </div>
                 <p>This Trimshake is a convenient and delicious weight management shake mix that provides essential nutrients and only 70 calories per serving. Blended with water or nonfat dairy, almond, rice, or soy milk, TrimShake can be used as part of a weight-loss strategy of reducing daily caloric intake and burning fat stores through exercise. Slim &amp; Sassy TrimShake includes a patented weight-loss ingredient that research has shown to help manage cortisol—a stress hormone associated with fat storage in the abdomen, hips, and thighs. It also includes a special protein extract from natural food sources that supports an increased feeling of satiety.
                 </p>

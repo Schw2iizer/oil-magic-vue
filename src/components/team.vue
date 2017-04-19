@@ -11,7 +11,7 @@
         <section class="team style-6 padding-bottom-40 padding-top-20">
         <div class="container">
           <div class="heading-block style-6 text-center">
-            <img class="margin-top-20 margin-bottom-10" src="images/crown.png" alt="" > <span>OUR GOLD LEADERS</span>
+            <img class="margin-top-20 margin-bottom-10" src="images/crown.png" alt="" > <span>MY GOLD LEADERS</span>
          </div>
          <div class="">
              <ul class="">
@@ -55,7 +55,7 @@
          </div>
           <div class="silver-leaders">
               <div class="heading-block style-6 text-center">
-                <img class="margin-top-20 margin-bottom-10" src="images/crown.png" alt="" > <span>OUR SILVER LEADERS</span>
+                <img class="margin-top-20 margin-bottom-10" src="images/crown.png" alt="" > <span>MY SILVER LEADERS</span>
               </div>
               <ul class="row center">
                 <li class="col-md-3">
@@ -88,7 +88,7 @@
           </div>
           <div class="premier-leaders">
               <div class="heading-block style-6 text-center">
-                <img class="margin-top-20 margin-bottom-10" src="images/crown.png" alt=""><span>OUR PREMIERE LEADERS</span>
+                <img class="margin-top-20 margin-bottom-10" src="images/crown.png" alt=""><span>MY PREMIERE LEADERS</span>
               </div>
               <ul class="row center">
                 <li class="col-md-3">

@@ -8,11 +8,11 @@
               </div>
             </div>
           </section>
-          <section class="padding-top-40 padding-bottom-40">
+          <section class="padding-top-40 padding-bottom-40 align-center">
             <div class="container">
               <div class="relative">
                 <div class="heading-block no-margin-bottom">
-                  <h4 class="margin-bottom-20 margin-top-0 letter-space-1">Becoming a dōTERRA Wellness Advocate is an amazing opportunity to purchase CPTG essential oils. Let’s learn why!</h4>
+                  <p class="margin-bottom-20 margin-top-0">Becoming a dōTERRA Wellness Advocate is an amazing opportunity to purchase CPTG essential oils. Let’s learn why!</p>
                 </div>
                 <hr>
                 <div class="padding-top-20 center youtube-wrapper">

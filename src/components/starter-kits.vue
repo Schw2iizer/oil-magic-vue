@@ -229,11 +229,11 @@
                             <a href="https://doterra.com/US/en/p/onguard-natural-whitening-toothpaste">doTERRA On Guard&reg; Toothpaste</a>
                             <a href="https://doterra.com/US/en/p/onguard-foaming-hand-wash-with-2-dispensers">doTERRA On Guard&reg; Hand Wash with 2 dispensers</a> and lots more.
                             <br>
-                            Click <a href="https://doterra.com/US/en/p/enrollment-kits-natural-solutions-2016-2017">here</a> for more information.
-                            <br>
                             Wholesale: $550.00,
                             PV: 400
                             Savings: $220.00
+                            <br>
+                            Click <a href="https://doterra.com/US/en/p/enrollment-kits-natural-solutions-2016-2017">here</a> for more information.
                         </p>
                     </span>
                 </div>
@@ -263,7 +263,7 @@
                             PV: 700,
                             Savings: $253.00
                             <br>
-                            <a href="https://doterra.com/US/en/p/enrollment-kits-oil-sharing-2016-2017">More Information</a>
+                            Click <a href="https://doterra.com/US/en/p/enrollment-kits-oil-sharing-2016-2017">here</a> for more information.
                         </p>
                     </span>
                 </div>
@@ -293,7 +293,7 @@
                             PV: 1425,
                             Savings: $311.15
                             <br>
-                            <a href="https://doterra.com/US/en/p/enrollment-kits-every-oil-2016-2017">More Information</a>
+                            Click <a href="https://doterra.com/US/en/p/enrollment-kits-every-oil-2016-2017">here</a> for more information.
                         </p>
                     </span>
                 </div>
@@ -323,7 +323,7 @@
                             PV: 2000,
                             Savings: $794.00
                             <br>
-                            <a href="https://doterra.com/US/en/p/enrollment-kits-diamond-2016-2017">More Information</a>
+                            Click <a href="https://doterra.com/US/en/p/enrollment-kits-diamond-2016-2017">here</a> for more information.
                         </p>
                     </span>
                 </div>

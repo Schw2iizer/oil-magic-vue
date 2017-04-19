@@ -10,19 +10,16 @@
     <section class="padding-top-40 padding-bottom-40">
       <div class="container">
         <div class="relative">
-          <!-- <div class="heading-block no-margin-bottom">
-            <h2 class="margin-bottom-20 margin-top-0 letter-space-1">When choosing essential oils for you and your family, you want to ensure you make the BEST choice! Let me tell you WHY Doterra and WHY you should choose them, just like we did!</h2>
-          </div> -->
           <p>Purchase oils at Wholesale pricing and save 25% always! No monthly fees, or requirements. You will have access to all of my support and education! Simply pick the kit you want from the previous tab (Starter Kit Options) then click here to get started! Join my Team!!  You will also have access to my private team tab here on my site!
           </p>
           <p>Purchase wholesale
-              <a href="https://www.mydoterra.com/Application/index.cfm?EnrollerID=1266154&Theme=DefaultTheme&ReturnURL=www.mydoterra.com/michellecannon88&LNG=en_dot&iact=1">here.</a>
+              <a href="https://www.mydoterra.com/Application/index.cfm?EnrollerID=1266154&Theme=DefaultTheme&ReturnURL=www.mydoterra.com/michellecannon88&LNG=en_dot&iact=1"><i>here</i>.</a>
           </p>
           <hr>
           <p>You have the option to purchase at retail directly from my site. You just will have to pay the full price and will not get the same wholesale membership benefits. If this suits you, click below to purchase retail pricing.
           </p>
           <p>Purchase retail
-              <a href="https://www.mydoterra.com/ShoppingCart/index.cfm?retail=1&OwnerID=1266154">here.</a>
+              <a href="https://www.mydoterra.com/ShoppingCart/index.cfm?retail=1&OwnerID=1266154"><i>here</i>.</a>
           </p>
         </div>
       </div>
