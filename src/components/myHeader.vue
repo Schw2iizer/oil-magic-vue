@@ -5,7 +5,6 @@
           <div class="col-md-6">
             <ul class="row">
                 <li>
-
                     <!--<p><img class="seal margin-right-10" name="seal" src="/images/seal.png" oncontextmenu="return false;" border="0" alt="" scale="0" @click="verifySeal()"></p>-->
                 </li>
               <li class="margin-right-20">
@@ -16,8 +15,6 @@
               </li>
             </ul>
           </div>
-
-          <!-- Social Icon -->
           <div class="col-md-6 text-right social-top">
               <a href="https://www.facebook.com/oilmagicbymichelle" target="_blank">
                   <i class=" fa fa-facebook"></i>
@@ -28,8 +25,6 @@
           </div>
         </div>
       </div>
-
-      <!-- Header -->
       <header class="header coporate-header">
         <div class="sticky">
           <div class="container">
@@ -38,12 +33,10 @@
                     <img class="oil-magic-logo" src="images/logo.png" alt="">
                 </a>
             </div>
-
-            <!-- Nav -->
             <nav>
               <ul id="ownmenu" class="ownmenu">
                 <li class="active"><a href="">Home</a></li>
-                <li><a href="">About Me</a>
+                <li><a>About Me</a>
                   <ul class="dropdown">
                     <li>
                         <router-link :to="{ path: '/about' }">Our Story</router-link>
@@ -56,20 +49,20 @@
                     </li>
                   </ul>
                 </li>
-                <li><a href="">Why Doterra?</a>
+                <li><a>Why Doterra?</a>
                   <ul class="dropdown">
                     <li><router-link :to="{ path: 'why-doterra' }">Why Doterra Oils?</router-link></li>
                     <li><router-link :to="{ path: 'member-benefits' }">Membership Benefits</router-link></li>
                     <li><router-link :to="{ path: 'co-impact-sourcing' }">Co-impact Sourcing</router-link></li>
                   </ul>
                 </li>
-                <li><a href="">About Oils</a>
+                <li><a>About Oils</a>
                   <ul class="dropdown">
                     <li><router-link :to="({ path: 'how-to-use'})">How to Use Doterra Essential Oils</router-link></li>
                     <li><router-link :to="({ path: 'resources'})">Doterra Resourcecs</router-link></li>
                   </ul>
                 </li>
-                <li><a href="">Get Started</a>
+                <li><a>Get Started</a>
                   <ul class="dropdown">
                     <li><router-link :to="{path: 'starter-kits'}"> Starter Kit Options</router-link></li>
                     <li><router-link :to="{path: 'how-to-order'}" replace> How to Order</router-link></li>
@@ -78,7 +71,7 @@
                 </li>
                 <li><router-link :to="({ path: 'contact' })">Contact</router-link></li>
                 <li><router-link to="team">Team</router-link></li>
-                <li @click="getPassword()" class="pointer"><router-link :to="{ path: 'members-only' }">Members Login</router-link></li>
+                <li @click="getPassword()" class="pointer"><a>Members Login</a></li>
               </ul>
             </nav>
           </div>
@@ -110,7 +103,7 @@ export default {
                 preConfirm: function (password) {
                     return new Promise(function (resolve, reject) {
                         if (password === 'Powerteam') {
-                            window.location.href = '/members-only'
+                            window.location.href = '/#/members-only'
                             resolve()
                         } else if (password === null) {
                             return
