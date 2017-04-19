@@ -48,10 +48,7 @@ const routes = [
   {path: '*', component: NotFound}
 ]
 
-const router = new VueRouter({
-  routes
-  // mode: 'history'
-})
+const router = new VueRouter({routes})
 
 new Vue({ // eslint-disable-line no-new
   router,
@@ -78,7 +75,7 @@ new Vue({ // eslint-disable-line no-new
   }
 })
 
-const app = new Vue({
-  router,
-  el: '#app'
-})
+// const app = new Vue({
+//   router,
+//   el: '#app'
+// })

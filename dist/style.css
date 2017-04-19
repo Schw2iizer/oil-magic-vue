@@ -7190,3 +7190,9 @@ blockquote cite {
 .align-center {
 	text-align: center;
 }
+
+.doterra-button-wrapper {
+	text-align: left;
+	width: 100%;
+	margin-left: 10px;
+}

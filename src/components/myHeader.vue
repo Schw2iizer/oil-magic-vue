@@ -5,14 +5,8 @@
           <div class="col-md-6">
             <ul class="row">
                 <li>
-                    <!-- <table width="100" border="0" cellpadding="2" cellspacing="0" title="Click to Verify" @click="verifySeal()">
-                        <tr>
-                            <td width="100" align="center" valign="top">
-                                <script type="text/javascript" src="http://www.doterracertifiedsite.com/api/Certificates/Script?domain=www.oilmagicbymichelle.com&sealSize=Small"></script>
-                            </td>
-                        </tr>
-                    </table> -->
-                    <p><img class="seal margin-right-10" name="seal" src="/images/seal.png" oncontextmenu="return false;" border="0" alt="" scale="0" @click="verifySeal()"></p>
+
+                    <!--<p><img class="seal margin-right-10" name="seal" src="/images/seal.png" oncontextmenu="return false;" border="0" alt="" scale="0" @click="verifySeal()"></p>-->
                 </li>
               <li class="margin-right-20">
                 <p><i class="fa fa-phone margin-right-10"></i><a href="tel:8013603608">(801) 360-3608</a></p>
@@ -52,7 +46,7 @@
                 <li><a href="">About Me</a>
                   <ul class="dropdown">
                     <li>
-                        <router-link :to="({path: 'about'})">Our Story</router-link>
+                        <router-link :to="{ path: '/about' }">Our Story</router-link>
                     </li>
                     <li>
                         <router-link :to="({path: 'favorite-products'})">Our Favorite Products</router-link>

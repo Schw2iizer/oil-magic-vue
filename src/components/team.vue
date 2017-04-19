@@ -1,4 +1,5 @@
 <template lang="html">
+  <div class="team-wrapper">
     <div class="content">
         <section class="sub-banner" style="background:url(images/dock.jpeg) fixed no-repeat center; background-size: 100% auto">
           <div class="container">
@@ -201,7 +202,7 @@
         </div>
       </section>
     </div>
-
+  </div>
 </template>
 
 <script>
@@ -210,8 +211,16 @@ export default {
 </script>
 
 <style lang="css">
-    .silver-leaders {
+    .team-wrapper .silver-leaders {
         margin-top: 20px;
         text-align: center;
+    }
+
+    .team-wrapper .team-image img {
+      min-height: 150px;
+    }
+
+    .team-wrapper .member-detail span {
+      font-size: 15px;
     }
 </style>
