@@ -1,6 +1,6 @@
 <template lang="html">
     <div id="content">
-      <section class="sub-banner" style="background:url(images/lavender-fields2.jpg) fixed center; background-size: 100% auto">
+      <section class="sub-banner animated fadeIn" style="background:url(images/lavender-fields2.jpg) fixed no-repeat center; background-size: 100% auto">
         <div class="container">
           <div class="position-center-center">
             <h2>CONTACT ME</h2>
@@ -54,7 +54,7 @@ export default {
         }
     },
     mounted: function(){
-        this.$router.push('/contact')
+
     },
 }
 </script>

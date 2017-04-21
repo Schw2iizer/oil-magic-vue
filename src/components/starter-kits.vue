@@ -1,7 +1,7 @@
 <template lang="html">
     <div class="starter-kits-wrapper">
         <div id="content">
-          <section class="sub-banner animated fadeIn" style="background:url(images/grass.jpeg) fixed no-repeat">
+          <section class="sub-banner animated fadeIn" style="background:url(images/lavender-fields2.jpg) fixed no-repeat center; background-size: 100% auto">
             <div class="container">
               <div class="position-center-center">
                 <h2>STARTER KITS</h2>
@@ -36,7 +36,7 @@
                             PV: 100,
                             Savings: $32.00
                             <br>
-                            <a href="https://doterra.com/US/en/p/enrollment-kits-aromatouch-diffused-2016-2017">More Information</a>
+                            <a href="https://doterra.com/US/en/p/enrollment-kits-aromatouch-diffused-2016-2017" target="_blank">More Information</a>
                         </p>
                     </span>
                 </div>
@@ -70,7 +70,7 @@
                             PV: 110,
                             Savings: $37.00
                             <br>
-                            <a href="https://doterra.com/US/en/p/enrollment-kits-family-essentials-and-beadlets-2016-2017">More Information</a>
+                            <a href="https://doterra.com/US/en/p/enrollment-kits-family-essentials-and-beadlets-2016-2017" target="_blank">More Information</a>
                         </p>
                     </span>
                 </div>
@@ -98,7 +98,7 @@
                             Wholesale: $195.00,
                             PV: 145,
                             <br>
-                            <a href="https://doterra.com/US/en/p/enrollment-kits-emotional-aromatherapy-diffused">More Information</a>
+                            <a href="https://doterra.com/US/en/p/enrollment-kits-emotional-aromatherapy-diffused" target="_blank">More Information</a>
                         </p>
                     </span>
                 </div>
@@ -129,7 +129,7 @@
                             PV: 175,
                             Savings: $79.05
                             <br>
-                            <a href="https://doterra.com/US/en/p/enrollment-kits-cleanse-and-restore-2016-2017">More Information</a>
+                            <a href="https://doterra.com/US/en/p/enrollment-kits-cleanse-and-restore-2016-2017" target="_blank">More Information</a>
                         </p>
                     </span>
                 </div>
@@ -164,7 +164,7 @@
                             PV: 225,
                             Savings: $99.00
                             <br>
-                            <a href="https://doterra.com/US/en/p/enrollment-kit-family-wellness-2016-2017">More Information</a>
+                            <a href="https://doterra.com/US/en/p/enrollment-kit-family-wellness-2016-2017" target="_blank">More Information</a>
                         </p>
                     </span>
                 </div>
@@ -197,7 +197,7 @@
                             PV: 225,
                             Savings: $86.25
                             <br>
-                            <a href="https://doterra.com/US/en/p/enrollment-kits-home-essentials-2016-2017">More Information</a>
+                            <a href="https://doterra.com/US/en/p/enrollment-kits-home-essentials-2016-2017" target="_blank">More Information</a>
                         </p>
                     </span>
                 </div>
@@ -233,7 +233,7 @@
                             PV: 400
                             Savings: $220.00
                             <br>
-                            Click <a href="https://doterra.com/US/en/p/enrollment-kits-natural-solutions-2016-2017">here</a> for more information.
+                            Click <a href="https://doterra.com/US/en/p/enrollment-kits-natural-solutions-2016-2017" target="_blank">here</a> for more information.
                         </p>
                     </span>
                 </div>
@@ -244,26 +244,16 @@
                 <div class="portfolio-image"> <a href="#."> <img alt="Oil Sharing Kit" src="images/cleanse-kit.png"> </a> </div>
                 <div class="portfolio-overlay">
                   <div class="position-center-center">
-                    <h3><a href="#.">Oil Sharing Kit</a></h3>
+                    <h3><a href="https://doterra.com/US/en/p/enrollment-kits-oil-sharing-2016-2017" target="_blank">Oil Sharing Kit</a></h3>
                     <span class="margin-top-25">
-                        <p> Includes:
-                            <a href="https://doterra.com/US/en/p/supplements-daily-vitality-doterra-lifelong-vitality-pack">doTERRA Lifelong Vitality Pack&reg;</a>,
-                            <a href="https://doterra.com/US/en/p/supplements-zendocrine-blend-softgels"> Zendocrine&reg; Softgels</a>,
-                            <a href="https://doterra.com/US/en/p/zendocrine-detoxification-complex"> Zendocrine Complex</a>,
-                            <a href="https://doterra.com/US/en/p/supplements-digestive-health-digestzen-terrazyme-digestive-enzyme-complex"> DigestZen TerraZyme&reg;</a>,
-                            <a href="https://doterra.com/US/en/p/gx-assist">GX Assist&reg;</a>
-                            <a href="https://doterra.com/US/en/p/digestzen-pb-assist">PB Assist&reg;+</a>
-                            <a href="https://doterra.com/US/en/p/ddr-prime-softgels">DDR Prime&reg; Softgels</a> and
-                            <a href="https://doterra.com/US/en/p/lemon-oil">Lemon</a>.
-                            <br>
-                            Other products included:
-                            Wellness Advocate Introductory Packet
+                        <p> New Wellness Advocates who enroll with an Oil Sharing Kit (700 PV) and have a 100 PV Loyalty Rewards order the following month* will receive 100 loyalty points and start loyalty point accrual at 15 percent.
                             <br>
                             Wholesale: $800.00,
                             PV: 700,
                             Savings: $253.00
                             <br>
-                            Click <a href="https://doterra.com/US/en/p/enrollment-kits-oil-sharing-2016-2017">here</a> for more information.
+                            <br>
+                            Click <a href="https://doterra.com/US/en/p/enrollment-kits-oil-sharing-2016-2017" target="_blank">here</a> to learn about what is included.
                         </p>
                     </span>
                 </div>
@@ -274,26 +264,16 @@
                 <div class="portfolio-image"> <a href="#."> <img alt="Cleanse Kit" src="images/every-oil-kit.png"> </a> </div>
                 <div class="portfolio-overlay">
                   <div class="position-center-center">
-                    <h3><a href="#.">Every Oil Kit</a></h3>
+                    <h3><a href="https://doterra.com/US/en/p/enrollment-kits-every-oil-2016-2017" target="_blank">Every Oil Kit</a></h3>
                     <span class="margin-top-25">
-                        <p> Includes:
-                            <a href="https://doterra.com/US/en/p/supplements-daily-vitality-doterra-lifelong-vitality-pack">doTERRA Lifelong Vitality Pack&reg;</a>,
-                            <a href="https://doterra.com/US/en/p/supplements-zendocrine-blend-softgels"> Zendocrine&reg; Softgels</a>,
-                            <a href="https://doterra.com/US/en/p/zendocrine-detoxification-complex"> Zendocrine Complex</a>,
-                            <a href="https://doterra.com/US/en/p/supplements-digestive-health-digestzen-terrazyme-digestive-enzyme-complex"> DigestZen TerraZyme&reg;</a>,
-                            <a href="https://doterra.com/US/en/p/gx-assist">GX Assist&reg;</a>
-                            <a href="https://doterra.com/US/en/p/digestzen-pb-assist">PB Assist&reg;+</a>
-                            <a href="https://doterra.com/US/en/p/ddr-prime-softgels">DDR Prime&reg; Softgels</a> and
-                            <a href="https://doterra.com/US/en/p/lemon-oil">Lemon</a>.
-                            <br>
-                            Other products included:
-                            Wellness Advocate Introductory Packet
+                        <p> With the Every Oil Enrollment Kit, you are given complete access to build your oil knowledge and personally experience the effects of the abundant benefits of doTERRA essential oils.
                             <br>
                             Wholesale: $1825.00,
                             PV: 1425,
                             Savings: $311.15
                             <br>
-                            Click <a href="https://doterra.com/US/en/p/enrollment-kits-every-oil-2016-2017">here</a> for more information.
+                            <br>
+                            Click <a href="https://doterra.com/US/en/p/enrollment-kits-every-oil-2016-2017" target="_blank">here</a> to learn about what is included.
                         </p>
                     </span>
                 </div>
@@ -306,24 +286,14 @@
                   <div class="position-center-center">
                     <h3><a href="#.">Diamond Kit</a></h3>
                     <span class="margin-top-25">
-                        <p> Includes:
-                            <a href="https://doterra.com/US/en/p/supplements-daily-vitality-doterra-lifelong-vitality-pack">doTERRA Lifelong Vitality Pack&reg;</a>,
-                            <a href="https://doterra.com/US/en/p/supplements-zendocrine-blend-softgels"> Zendocrine&reg; Softgels</a>,
-                            <a href="https://doterra.com/US/en/p/zendocrine-detoxification-complex"> Zendocrine Complex</a>,
-                            <a href="https://doterra.com/US/en/p/supplements-digestive-health-digestzen-terrazyme-digestive-enzyme-complex"> DigestZen TerraZyme&reg;</a>,
-                            <a href="https://doterra.com/US/en/p/gx-assist">GX Assist&reg;</a>
-                            <a href="https://doterra.com/US/en/p/digestzen-pb-assist">PB Assist&reg;+</a>
-                            <a href="https://doterra.com/US/en/p/ddr-prime-softgels">DDR Prime&reg; Softgels</a> and
-                            <a href="https://doterra.com/US/en/p/lemon-oil">Lemon</a>.
-                            <br>
-                            Other products included:
-                            Wellness Advocate Introductory Packet
+                        <p> The Diamond Enrollment Kit is an intensive collection of products designed to give you the knowledge and tools to use and promote the wonderful benefits of doTERRA essential oils.
                             <br>
                             Wholesale: $2500.00,
                             PV: 2000,
                             Savings: $794.00
                             <br>
-                            Click <a href="https://doterra.com/US/en/p/enrollment-kits-diamond-2016-2017">here</a> for more information.
+                            <br>
+                            Click <a href="https://doterra.com/US/en/p/enrollment-kits-diamond-2016-2017" target="_blank">here</a> to learn about what is included.
                         </p>
                     </span>
                 </div>

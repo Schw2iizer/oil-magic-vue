@@ -1,6 +1,6 @@
 <template lang="html">
   <div id="content">
-    <section class="sub-banner" style="background:url(images/how-to-order.jpg) fixed no-repeat center; background-size: 100% auto">
+    <section class="sub-banner animated fadeIn" style="background:url(images/lavender-fields2.jpg) fixed no-repeat center; background-size: 100% auto">
       <div class="container">
         <div class="position-center-center">
           <h2 class="white">HOW TO ORDER</h2>

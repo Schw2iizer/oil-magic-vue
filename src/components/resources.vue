@@ -1,10 +1,10 @@
 <template lang="html">
     <div class="resources-wrapper">
         <div id="content">
-          <section class="sub-banner" style="background:url(/images/more-oils.png)  no-repeat; background-size: 100% auto">
+          <section class="sub-banner animated fadeIn" style="background:url(images/lavender-fields2.jpg) fixed no-repeat center; background-size: 100% auto">
             <div class="container">
               <div class="position-center-center">
-                <h2 style="color: black">RESOURCES</h2>
+                <h2>RESOURCES</h2>
               </div>
             </div>
           </section>
