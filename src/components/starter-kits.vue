@@ -36,7 +36,7 @@
                             PV: 100,
                             Savings: $32.00
                             <br>
-                            <a href="https://doterra.com/US/en/p/enrollment-kits-aromatouch-diffused-2016-2017" target="_blank">More Information</a>
+                            Click <a href="https://www.mydoterra.com/michellecannon88/#/" target="_blank">here</a> and on the Shop tab to learn about what is included.
                         </p>
                     </span>
                 </div>
@@ -70,7 +70,7 @@
                             PV: 110,
                             Savings: $37.00
                             <br>
-                            <a href="https://doterra.com/US/en/p/enrollment-kits-family-essentials-and-beadlets-2016-2017" target="_blank">More Information</a>
+                            Click <a href="https://www.mydoterra.com/michellecannon88/#/" target="_blank">here</a> and on the Shop tab to learn about what is included.
                         </p>
                     </span>
                 </div>
@@ -98,7 +98,7 @@
                             Wholesale: $195.00,
                             PV: 145,
                             <br>
-                            <a href="https://doterra.com/US/en/p/enrollment-kits-emotional-aromatherapy-diffused" target="_blank">More Information</a>
+                            Click <a href="https://www.mydoterra.com/michellecannon88/#/" target="_blank">here</a> and on the Shop tab to learn about what is included.
                         </p>
                     </span>
                 </div>
@@ -129,7 +129,7 @@
                             PV: 175,
                             Savings: $79.05
                             <br>
-                            <a href="https://doterra.com/US/en/p/enrollment-kits-cleanse-and-restore-2016-2017" target="_blank">More Information</a>
+                            Click <a href="https://www.mydoterra.com/michellecannon88/#/" target="_blank">here</a> and on the Shop tab to learn about what is included.
                         </p>
                     </span>
                 </div>
@@ -164,7 +164,7 @@
                             PV: 225,
                             Savings: $99.00
                             <br>
-                            <a href="https://doterra.com/US/en/p/enrollment-kit-family-wellness-2016-2017" target="_blank">More Information</a>
+                            Click <a href="https://www.mydoterra.com/michellecannon88/#/" target="_blank">here</a> and on the Shop tab to learn about what is included.
                         </p>
                     </span>
                 </div>
@@ -197,7 +197,7 @@
                             PV: 225,
                             Savings: $86.25
                             <br>
-                            <a href="https://doterra.com/US/en/p/enrollment-kits-home-essentials-2016-2017" target="_blank">More Information</a>
+                            Click <a href="https://www.mydoterra.com/michellecannon88/#/" target="_blank">here</a> and on the Shop tab to learn about what is included.
                         </p>
                     </span>
                 </div>
@@ -233,7 +233,7 @@
                             PV: 400
                             Savings: $220.00
                             <br>
-                            Click <a href="https://doterra.com/US/en/p/enrollment-kits-natural-solutions-2016-2017" target="_blank">here</a> for more information.
+                            Click <a href="https://www.mydoterra.com/michellecannon88/#/" target="_blank">here</a> and on the Shop tab to learn about what is included.
                         </p>
                     </span>
                 </div>
@@ -253,7 +253,7 @@
                             Savings: $253.00
                             <br>
                             <br>
-                            Click <a href="https://doterra.com/US/en/p/enrollment-kits-oil-sharing-2016-2017" target="_blank">here</a> to learn about what is included.
+                            Click <a href="https://www.mydoterra.com/michellecannon88/#/" target="_blank">here</a> and on the Shop tab to learn about what is included.
                         </p>
                     </span>
                 </div>
@@ -273,7 +273,7 @@
                             Savings: $311.15
                             <br>
                             <br>
-                            Click <a href="https://doterra.com/US/en/p/enrollment-kits-every-oil-2016-2017" target="_blank">here</a> to learn about what is included.
+                            Click <a href="https://www.mydoterra.com/michellecannon88/#/" target="_blank">here</a> and on the Shop tab to learn about what is included.
                         </p>
                     </span>
                 </div>
@@ -293,7 +293,7 @@
                             Savings: $794.00
                             <br>
                             <br>
-                            Click <a href="https://doterra.com/US/en/p/enrollment-kits-diamond-2016-2017" target="_blank">here</a> to learn about what is included.
+                            Click <a href="https://www.mydoterra.com/michellecannon88/#/" target="_blank">here</a> and on the Shop tab to learn about what is included.
                         </p>
                     </span>
                 </div>

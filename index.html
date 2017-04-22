@@ -20,7 +20,12 @@
 
   </head>
   <body>
-    <div class="doterra-button-wrapper">
+    <div id="app">
+        <my-header></my-header>
+        <router-view></router-view>
+        <my-footer></my-footer>
+    </div>
+    <div class="doterra-button-wrapper align-center">
          <table width="100" border="0" cellpadding="2" cellspacing="0" title="Click to Verify">
            <tr>
              <td width="100" align="center" valign="top">
@@ -28,12 +33,6 @@
              </td>
            </tr>
         </table>
-    </div>
-                       
-    <div id="app">
-        <my-header></my-header>
-        <router-view></router-view>
-        <my-footer></my-footer>
     </div>
     <script src="dist/build.js"></script>
     <script src="dist/jquery.min.js"></script>
