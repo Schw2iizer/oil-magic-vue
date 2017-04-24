@@ -40,6 +40,7 @@
                   <div class="col-md-3">
                     <div class="block block-instagram-widget">
                       <h3 class="block-title"><span>Instagram Photos</span></h3>
+                      <span>Coming Soon..</span>
                       <ul >
                         <!-- <li> <a href="#.."> <img src="images/footer/footer_instagram_01.png" alt="" /> <span class="overlay"><i class="fa fa-search"></i></span> </a> </li>
                         <li> <a href="#.."> <img src="images/footer/footer_instagram_02.png" alt="" /> <span class="overlay"><i class="fa fa-search"></i></span> </a> </li>
