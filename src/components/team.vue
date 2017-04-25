@@ -240,6 +240,11 @@ export default {
 </script>
 
 <style lang="css">
+
+    .team-wrapper .sub-banner {
+        min-height: 400px;
+    }
+
     .team-wrapper .silver-leaders {
         margin-top: 20px;
         text-align: center;

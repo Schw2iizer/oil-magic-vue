@@ -108,6 +108,9 @@ export default {
     .how-to-wrapper h5 {
         font-weight: 300;
     }
+    .how-to-wrapper .sub-banner {
+        min-height: 400px;
+    }
     .how-to-wrapper p {
         color: black;
     }

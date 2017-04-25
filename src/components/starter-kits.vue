@@ -10,7 +10,7 @@
           </section>
 
           <!-- PORTFOLIO -->
-          <section class="portfolio port-wrap padding-top-80 animate fadeInUp" data-wow-delay="0.4s">
+          <section class="portfolio port-wrap padding-top-40 animate fadeInUp" data-wow-delay="0.4s">
             <div class="items row col-4 animate fadeInUp" data-wow-delay="0.4s">
               <!-- ITEM -->
               <article class="portfolio-item pf-branding-design pf-web-design">
@@ -313,6 +313,9 @@ export default {
 <style lang="css">
     .starter-kits-wrapper h4 {
         font-weight: 300;
+    }
+    .starter-kits-wrapper .sub-banner {
+        min-height: 400px;
     }
     .starter-kits-wrapper .portfolio-overlay span a {
         display: inline-block;

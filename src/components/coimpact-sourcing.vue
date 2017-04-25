@@ -37,6 +37,9 @@ export default {
     .coimpact-wrapper h4 {
         font-weight: 300;
     }
+    .coimpact-wrapper .sub-banner {
+        min-height: 400px;
+    }
     .youtube-wrapper {
         text-align: center;
     }

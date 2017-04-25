@@ -1,5 +1,5 @@
 <template lang="html">
-    <div class="member-wrapper">
+    <div class="benefits-wrapper">
         <div id="content">
           <section class="sub-banner animated fadeIn" style="background:url(images/lavender-fields2.jpg) fixed no-repeat center; background-size: 100% auto">
             <div class="container">
@@ -31,8 +31,11 @@ export default {
 </script>
 
 <style lang="css">
-    .member-wrapper h4 {
+    .benefits-wrapper h4 {
         font-weight: 300;
+    }
+    .benefits-wrapper .sub-banner {
+        min-height: 400px;
     }
     .youtube-wrapper {
         text-align: center;

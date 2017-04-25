@@ -55,4 +55,7 @@ export default {
 .resources-wrapper h4 {
     font-weight: 300;
 }
+.resources-wrapper .sub-banner {
+    min-height: 400px;
+}
 </style>

@@ -36,4 +36,7 @@ export default {
     .why-doterra-wrapper h4 {
         font-weight: 300;
     }
+    .why-doterra-wrapper .sub-banner {
+        min-height: 400px;
+    }
 </style>
