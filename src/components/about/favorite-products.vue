@@ -46,6 +46,6 @@ export default {
 
 <style lang="css">
     .favorite-product-wrapper .sub-banner {
-        min-height: 900px;
+        min-height: 830px;
     }
 </style>
