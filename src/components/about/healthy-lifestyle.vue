@@ -1,6 +1,6 @@
 <template lang="html">
     <div id="content">
-      <section class="sub-banner" style="background:url(images/healthy-lifestyle.jpg) no-repeat; background-size: 100% auto"></section>
+      <section class="sub-banner" style="background:url(images/healthy-lifestyle-compressor.jpg) no-repeat; background-size: 100% auto"></section>
       <section class="padding-top-40 padding-bottom-40 healthy-lifestyle">
         <div class="container">
           <div class="row">
