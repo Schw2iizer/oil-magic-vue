@@ -16,7 +16,10 @@
          <div class="">
              <ul class="">
                <li class="col-md-3">
-                 <div class="team-image"> <img class="img-responsive" src="images/kelli_hunter.png" alt="Kelli Hunter">
+                 <div class="team-image">
+                     <div class="profile">
+                         <img class="img-responsive" src="images/kelli_hunter.png" alt="Kelli Hunter">
+                     </div>
                    <ul class="social-icons text-center">
                      <li><a href="https://www.instagram.com/healthwithessentialoils/" target="_blank"><i class="fa fa-instagram"></i></a></li>
                      <li><a href="tel:4802544313"><i class="fa fa-phone"></i></a></li>
@@ -28,7 +31,10 @@
                  </div>
                </li>
                <li class="col-md-3">
-                 <div class="team-image"> <img class="img-responsive" src="images/cortney_clegg.png" alt="Cortney Clegg">
+                 <div class="team-image">
+                     <div class="profile">
+                        <img class="img-responsive" src="images/cortney_clegg.png" alt="Cortney Clegg">
+                     </div>
                    <ul class="social-icons text-center">
                      <li><a href="https://www.instagram.com/an.oil.a.day"><i class="fa fa-instagram"></i></a></li>
                      <li><a href="tel:8015889848"><i class="fa fa-phone"></i></a></li>
@@ -40,7 +46,10 @@
                  </div>
                </li>
                <li class="col-md-3">
-                 <div class="team-image"> <img class="img-responsive" src="images/dr_aly.png" alt="Doctor Aly">
+                 <div class="team-image">
+                     <div class="profile">
+                         <img class="img-responsive" src="images/dr_aly.png" alt="Doctor Aly">
+                     </div>
                    <ul class="social-icons text-center">
                      <li><a href="https://www.instagram.com/wherejunipergrows/" target="_blank"><i class="fa fa-instagram" target="_blank"></i></a></li>
                      <li><a href="http://www.wherejunipergrows.com"><i class="fa fa-newspaper-o"></i></a></li>
@@ -59,8 +68,10 @@
               </div>
               <ul class="row center">
                 <li class="col-md-3">
-                  <div class="team-image"> <img class="img-responsive" src="images/kelli_johnson.png" alt="Kelli Hunter">
-                    <!-- Team Hover -->
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/kelli_johnson.png" alt="Kelli Hunter">
+                      </div>
                     <ul class="social-icons text-center">
                       <li><a href="https://www.instagram.com/oil.love.by.kelli/" target="_blank"><i class="fa fa-instagram"></i></a></li>
                       <li><a href="mailto:oil.love.by.kelli@gmail.com"><i class="fa fa-envelope"></i></a></li>
@@ -71,8 +82,10 @@
                   </div>
                 </li>
                 <li class="col-md-3">
-                    <div class="team-image"> <img class="img-responsive" src="images/jennifer_morgan.png" alt="Jennifer Morgan">
-                      <!-- Team Hover -->
+                    <div class="team-image">
+                        <div class="profile">
+                            <img class="img-responsive" src="images/jennifer_morgan.png" alt="Jennifer Morgan">
+                        </div>
                       <ul class="social-icons text-center">
                         <li><a href="https://www.facebook.com/Soulfilledyogi/" target="_blank"><i class="fa fa-facebook"></i></a></li>
                         <li><a href="https://www.instagram.com/soulfilledyogi/" target="_blank"><i class="fa fa-instagram"></i></a></li>
@@ -92,8 +105,10 @@
               </div>
               <ul class="row center">
                 <li class="col-md-3">
-                  <div class="team-image"> <img class="img-responsive" src="images/samantha.png" alt="Samantha Mueller">
-                    <!-- Team Hover -->
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/samantha.png" alt="Samantha Mueller">
+                      </div>
                     <ul class="social-icons text-center">
                         <li><a href="http://www.ofmoonsandsea.com "><i class="fa fa-newspaper-o"></i></a></li>
                       <li><a href="mailto:Ofmoonandsea@gmail.com"><i class="fa fa-envelope"></i></a></li>
@@ -104,8 +119,10 @@
                   </div>
                 </li>
                 <li class="col-md-3">
-                  <div class="team-image"> <img class="img-responsive" src="images/christine_ceperano.png" alt="Christine Ceperano">
-                    <!-- Team Hover -->
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/christine_ceperano.png" alt="Christine Ceperano">
+                      </div>
                     <ul class="social-icons text-center">
                       <li><a href="mailto:Essentiallyccep28@gmail.com"><i class="fa fa-envelope"></i></a></li>
                     </ul>
@@ -115,8 +132,10 @@
                   </div>
                 </li>
                 <li class="col-md-3">
-                  <div class="team-image"> <img class="img-responsive" src="images/kari_barras.png" alt="Kari Barras">
-                    <!-- Team Hover -->
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/kari_barras.png" alt="Kari Barras">
+                      </div>
                     <ul class="social-icons text-center">
                       <li><a href="https://www.instagram.com/KarebearOilLove/" target="_blank"><i class="fa fa-instagram"></i></a></li>
                       <li><a href="tel:3375403360"><i class="fa fa-phone"></i></a></li>
@@ -128,8 +147,10 @@
                   </div>
                 </li>
                 <li class="col-md-3">
-                  <div class="team-image"> <img class="img-responsive" src="images/jenni_soleau.png" alt="Jenny Soileau">
-                    <!-- Team Hover -->
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/jenni_soleau.png" alt="Jenny Soileau">
+                      </div>
                     <ul class="social-icons text-center">
                       <li><a href="tel:3375137273"><i class="fa fa-phone"></i></a></li>
                       <li><a href="mailto:jennysoileau@hotmail.com"><i class="fa fa-envelope"></i></a></li>
@@ -145,8 +166,10 @@
               <div class="heading-block style-6 text-center"></div>
               <ul class="row center">
                 <li class="col-md-3">
-                  <div class="team-image"> <img class="img-responsive" src="images/cassidy_mullis.png" alt="Cassidy Mullis">
-                    <!-- Team Hover -->
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/cassidy_mullis.png" alt="Cassidy Mullis">
+                      </div>
                     <ul class="social-icons text-center">
                       <li><a href="https://www.instagram.com/Those.silly.oils/" target="_blank"><i class="fa fa-instagram"></i></a></li>
                       <li><a href="tel:7048064608"><i class="fa fa-phone"></i></a></li>
@@ -158,8 +181,10 @@
                   </div>
                 </li>
                 <li class="col-md-3">
-                  <div class="team-image"> <img class="img-responsive" src="images/karman_petersen.png" alt="Karman Petersen">
-                    <!-- Team Hover -->
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/karman_petersen.png" alt="Karman Petersen">
+                      </div>
                     <ul class="social-icons text-center">
                       <li><a href="https://www.facebook.com/bluebirdessentialoils/" target="_blank"><i class="fa fa-facebook"></i></a></li>
                       <li><a href="https://www.instagram.com/bluebirdessentialoils/" target="_blank"><i class="fa fa-instagram"></i></a></li>
@@ -172,8 +197,10 @@
                   </div>
                 </li>
                 <li class="col-md-3">
-                  <div class="team-image"> <img class="img-responsive" src="images/cherise_williams.png" alt="Cherise Williams">
-                    <!-- Team Hover -->
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/cherise_williams.png" alt="Cherise Williams">
+                      </div>
                     <ul class="social-icons text-center">
                       <li><a href="https://www.instagram.com/CheriseHealingMoon/" target="_blank"><i class="fa fa-instagram"></i></a></li>
                       <li><a href="https://www.instagram.com/HealingMoonObscura/" target="_blank"><i class="fa fa-instagram"></i></a></li>
@@ -184,8 +211,10 @@
                   </div>
                 </li>
                 <li class="col-md-3">
-                  <div class="team-image"> <img class="img-responsive" src="images/nissa_moreno.png" alt="Nissa Moreno">
-                    <!-- Team Hover -->
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/nissa_moreno.png" alt="Nissa Moreno">
+                      </div>
                     <ul class="social-icons text-center">
                         <li><a href="tel:7148784188 "><i class="fa fa-phone"></i></a></li>
                         <li><a href="mailto:Nissa@SipOfHauteTea.com "><i class="fa fa-envelope"></i></a></li>
@@ -217,10 +246,17 @@ export default {
     }
 
     .team-wrapper .team-image img {
-      min-height: 150px;
+        height: auto;
+        width: 100%;
     }
 
     .team-wrapper .member-detail span {
       font-size: 15px;
+    }
+
+    .team-wrapper .team-image .profile {
+        height: 325px;
+        width: 265px;
+        overflow: hidden;
     }
 </style>
