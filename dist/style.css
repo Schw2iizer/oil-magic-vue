@@ -7192,9 +7192,11 @@ blockquote cite {
 }
 
 .doterra-button-wrapper {
+	text-align: center;
 	width: 100%;
 	margin-left: 10px;
 	height: 40px;
+	background: rgb(231, 231, 231);
 }
 
 /*.sub-banner h2 {
