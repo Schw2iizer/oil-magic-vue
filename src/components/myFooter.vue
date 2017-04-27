@@ -13,7 +13,7 @@
                       <h3 class="block-title no-underline"><span class="text-primary">Oil Magic by Michelle</span></h3>
                       <div class="block-content">
                         <p>We use essential oils to maintain a healthy lifestyle for our family. We clean with them, cook with them, basically our life revolves around our essential oils! About 6 years ago we started on our journey with essential oils for two basic needs: immune support and digestive support.</p>
-                        <img class="footer-logo" src="images/IMG_3688_1.jpg" alt="" /> </div>
+                        <img class="footer-logo" src="images/IMG_3688_1-min.jpg" alt="" /> </div>
                     </div>
                   </div>
                   <!-- End About Block -->
@@ -98,7 +98,7 @@ export default {
 
 <style lang="css">
     .footer-logo {
-        width: 150px;
+        width: 325px;
         height: auto;
     }
     .footer-wrapper p {
