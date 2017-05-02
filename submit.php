@@ -1,25 +1,23 @@
 <?php
 
-
 // specify your email here
 
-$to = 'michellecannon88@gmail.com';
-
-
+// $to = 'michellecannon88@gmail.com';
+$to = 'jefftelford@gmail.com';
 
 	// Assigning data from $_POST array to variables
     if (isset($_POST['name'])) { $name = $_POST['name']; }
     if (isset($_POST['email'])) { $from = $_POST['email']; }
-    if (isset($_POST['company'])) { $company = $_POST['company']; }
+    if (isset($_POST['subject'])) { $subject = $_POST['subject']; }
     if (isset($_POST['message'])) { $message = $_POST['message']; }
 
 	// Construct subject of the email
-	$subject = 'Contact Iquery ' . $name;
+	$subject = 'Contact Inquiry: ' . $name;
 
 	// Construct email body
 	$body_message .= 'NAME: ' . $name . "\r\n\n";
 	$body_message .= 'EMAIL: ' . $from . "\r\n\n";
-	$body_message .= 'SUBJECT: ' . $company . "\r\n\n";
+	$body_message .= 'SUBJECT: ' . $subject . "\r\n\n";
 	$body_message .= 'MESSAGE: ' . $message . "\r\n\n";
 
 	// Construct headers of the message
@@ -37,6 +35,6 @@ $to = 'michellecannon88@gmail.com';
                     window.alert("Error! Please Try Again Later.");
                 </script>
 <?php
-	} // End else
+	}
 
 ?>
