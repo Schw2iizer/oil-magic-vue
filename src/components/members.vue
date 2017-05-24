@@ -142,7 +142,7 @@
                           </div>
                           <div class="sharing margin-top-15">
                               <h5>Cost and Quality</h5>
-                              <p>When sharing these oils, I know the questions will be brought up about the cost? Why are these oils more expensive than what we can purchase at a wholefood market, or a grocery store?</p>
+                              <p>When sharing these oils, I know the question will be asked about the cost. Why are these oils more expensive than what we can purchase at a wholefood market, or a grocery store?</p>
                               <p>Dr. Hill explains that there is, in fact, a difference between the oils you purchase from doTERRA and those you can purchase outside of doTERRA. We provide the highest quality oils through our sourcing model, while other companies may even turn to synthetic labs in order to bring down the cost of production.</p>
                           </div>
                           <div class="sharing youtube-wrapper">
