@@ -186,8 +186,8 @@ export default {
     .members-only-wrapper .sub-banner {
         min-height: 400px;
     }
-    .youtube-wrapper {
+    .members-only-wrapper .youtube-wrapper {
         text-align: center;
-        margin-top: 10px;
+        margin-top: 20px;
     }
 </style>
