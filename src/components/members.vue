@@ -119,7 +119,7 @@
                               <p>When you become in love with Doterra products, you can’t help but share these products! That is how I began! I fell in love with the results I was experiencing, and I couldn’t help but share with others my story! Sharing can be so simple! Let me give you a few bits of advice as well as tips on sharing!</p>
                           </div>
                           <div class="sharing">
-                              <h5>Sharing Doterra</h5>
+                              <h5>Sharing Doterra Information</h5>
                               <p>Click <a href="https://doterra.com/US/en/university/sharing" target="_blank"><i>here</i></a> to explore the "Sharing Doterra" Information that has been provided from Doterra! Look through each tab to see just how simple sharing the products can be! If you are looking to earn a little income simply by sharing, then once you have gone through this tab, hop over to the Building Doterra tab! There I will be able to help you expand your Doterra knowledge on how this all works! For now, lets get sharing!</p>
                           </div>
                           <div class="sharing youtube-wrapper">
