@@ -116,7 +116,7 @@
                       </div>
                       <div id="menu2" class="tab-pane fade">
                           <div class="margin-top-15">
-                              <p>When you become in love with Doterra products, you can’t help but share these products! That is how I began! I fell in love with the results I was experiencing, and I couldn’t help but share with others my story! Sharing can be so simple! Let me give you a few bits of advice as well as tips on sharing!</p>
+                              <p>When you become in love with Doterra products, you can’t help but share these products! That is how I began! I fell in love with the results I was experiencing, and I couldn’t help but share with others my story! Sharing can be so simple! Let me give you a few bits of advice, as well as, tips on sharing!</p>
                           </div>
                           <div class="sharing">
                               <h5>Sharing Doterra Information</h5>
