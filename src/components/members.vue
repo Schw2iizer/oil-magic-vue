@@ -16,7 +16,8 @@
                   <ul class="nav nav-tabs">
                       <li class="active"><a data-toggle="tab" href="#menu1">Living Doterra</a></li>
                       <li><a data-toggle="tab" href="#menu2">Sharing Doterra</a></li>
-                      <li><a data-toggle="tab" href="#menu3">Menu 3</a></li>
+                      <li><a data-toggle="tab" href="#menu3">Build Your Business</a></li>
+                      <li><a data-toggle="tab" href="#menu4">Self Development</a></li>
                   </ul>
                   <div class="tab-content">
                       <div id="menu1" class="tab-pane fade in active">
@@ -150,15 +151,81 @@
                           </div>
                       </div>
                       <div id="menu3" class="tab-pane fade">
-                          <h3>Menu 3</h3>
-                          <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                          <div class="margin-top-15">
+                              <p>Welcome to the Building Your Business tab! Here you will find all the information for basics to building your own Doterra Business! Watch my welcome video!</p>
+                          </div>
+                          <div class="building youtube-wrapper">
+                             <iframe width="700" height="400" src="https://www.youtube.com/embed/kAkMKAaDpWU" frameborder="0" allowfullscreen></iframe>
+                          </div>
+                          <div class="margin-top-15">
+                              <h5>Now let's get started..</h5>
+                              <p>First things first. You need to be on the LRP (Loyalty Reward Program) in order to earn commissions! Watch this video on LRP!</p>
+                              <div class="building youtube-wrapper">
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/3H1wOkfcw7Y" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="margin-top-15">
+                              <div class="building youtube-wrapper">
+                                <h5>How to set up your LRP order</h5>
+                                <iframe width="700" height="400" src="https://www.youtube.com/embed/IU91FhDUc1Y" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                      </div>
+                      <div id="menu4" class="tab-pane fade">
+                          <div class="margin-top-15">
+                              <p>Working on self-development is so important in this business! Below will be a few videos on self-development and also some amazing motivation and great advice from some amazing Doterra leaders! Also, it is so important we know how to work with our leaders and to create solid connections and lasting relationships! All these videos below are simply amazing!</p>
+                          </div>
+                          <div class="development youtube-wrapper">
+                              <h5>Overcoming your fears</h5>
+                              <div class="padding-top-5">
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/PPgNixDBgR8" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="development youtube-wrapper">
+                              <h5>How to set goals that really work</h5>
+                              <div class="padding-top-5">
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/7PU7-OkLX9U" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="development youtube-wrapper">
+                              <h5>Develop a positive attitude</h5>
+                              <div class="padding-top-5">
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/63amEeSAIDk" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="development youtube-wrapper">
+                              <h5>Nurturing relationships</h5>
+                              <div class="padding-top-5">
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/BrAoirSAgrk?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="development youtube-wrapper">
+                              <h5>Joy in the Journey</h5>
+                              <div class="padding-top-5">
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/It4j7LTq8MY?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="development youtube-wrapper">
+                              <h5>Vision and time freedom</h5>
+                              <div class="padding-top-5">
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/HIzqZbzxBOM?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="development youtube-wrapper">
+                              <h5>Belief is the fuel to your business</h5>
+                              <div class="padding-top-5">
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/ZVQWMDJtgwY?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="development youtube-wrapper">
+                              <h5>Are you powered up?</h5>
+                              <div class="padding-top-5">
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/x0kW2PUUYTE?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
                       </div>
                   </div>
-                <!-- </div> -->
                 <hr>
-                <div class="padding-top-20 center youtube-wrapper">
-                   <!-- <iframe width="600" height="400" src="https://www.youtube.com/embed/8M9GkBJzrSM" frameborder="0" allowfullscreen></iframe> -->
-                </div>
               </div>
             </div>
           </section>
@@ -173,7 +240,7 @@ export default {
 
 <style lang="css">
     .nav-tabs li {
-        width: 33%;
+        width: 25%;
         text-align: center;
         font-size: 25px;
     }
