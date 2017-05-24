@@ -20,7 +20,7 @@
                   </ul>
                   <div class="tab-content">
                       <div id="menu1" class="tab-pane fade in active">
-                          <div class="para1">
+                          <div class="margin-top-15">
                               <p>Welcome to Team Oil Magic! This tab will help you learn and get educated on all the products Doterra has to offer and how making a natural lifestyle can be easy, simply by education! Be sure to follow and like my <i><a href="https://www.facebook.com/oilmagicbymichelle" target="_blank">Facebook</a></i> page to watch weekly live classes that me and my top leaders teach, and also follow Team Oil Magic on Facebook as well for our private team page! I will approve you once you have added yourself! Explore this tab and learn all about these amazing products so you can dive in and start Living the Doterra lifestyle! Again, WELCOME to my amazing team!!! We are so blessed to have you!
                               - Michelle
                               </p>
@@ -115,7 +115,39 @@
                           </div>
                       </div>
                       <div id="menu2" class="tab-pane fade">
-                          <p>Hi Michelle!</p>
+                          <div class="margin-top-15">
+                              <p>When you become in love with Doterra products, you can’t help but share these products! That is how I began! I fell in love with the results I was experiencing, and I couldn’t help but share with others my story! Sharing can be so simple! Let me give you a few bits of advice as well as tips on sharing!</p>
+                          </div>
+                          <div class="sharing">
+                              <h5>Sharing Doterra</h5>
+                              <p>Click <a href="https://doterra.com/US/en/university/sharing" target="_blank"><i>here</i></a> to explore the "Sharing Doterra" Information that has been provided from Doterra! Look through each tab to see just how simple sharing the products can be! If you are looking to earn a little income simply by sharing, then once you have gone through this tab, hop over to the Building Doterra tab! There I will be able to help you expand your Doterra knowledge on how this all works! For now, lets get sharing!</p>
+                          </div>
+                          <div class="sharing youtube-wrapper">
+                              <h5>Sharing can be simple as explained by Dr. Hill, dōTERRA's Chief Medical Officer</h5>
+                              <div class="padding-top-5">
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/ZUbAlJDBNqI" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="sharing youtube-wrapper">
+                              <h5>Can Essential Oils be used during pregnancy? Yes they can! Dr. Hill has a great explanation!</h5>
+                              <div class="padding-top-5">
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/rRBJ8WDDz_I?list=PLp3VbOdUkkm3rM7lw5Dh2PZpNZ_uB5TKw" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="sharing youtube-wrapper">
+                              <h5>What safety tips do I need to know before using these oils? Dr. Hill has great safety tips to get you started!</h5>
+                              <div class="padding-top-5">
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/oImC1aBR-Xs?list=PLp3VbOdUkkm3rM7lw5Dh2PZpNZ_uB5TKw" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="sharing margin-top-15">
+                              <h5>Cost and Quality</h5>
+                              <p>When sharing these oils, I know the questions will be brought up about the cost? Why are these oils more expensive than what we can purchase at a wholefood market, or a grocery store?</p>
+                              <p>Dr. Hill explains that there is, in fact, a difference between the oils you purchase from doTERRA and those you can purchase outside of doTERRA. We provide the highest quality oils through our sourcing model, while other companies may even turn to synthetic labs in order to bring down the cost of production.</p>
+                          </div>
+                          <div class="sharing youtube-wrapper">
+                             <iframe width="700" height="400" src="https://www.youtube.com/embed/C3z5jHp_vHk?list=PLp3VbOdUkkm3rM7lw5Dh2PZpNZ_uB5TKw" frameborder="0" allowfullscreen></iframe>
+                          </div>
                       </div>
                       <div id="menu3" class="tab-pane fade">
                           <h3>Menu 3</h3>
@@ -156,5 +188,6 @@ export default {
     }
     .youtube-wrapper {
         text-align: center;
+        margin-top: 10px;
     }
 </style>
