@@ -135,7 +135,7 @@
                               </div>
                           </div>
                           <div class="sharing youtube-wrapper">
-                              <h5>What safety tips do I need to know before using these oils? Dr. Hill has great safety tips to get you started!</h5>
+                              <h5>Many people may ask what safety tips they need to know before using these oils. Dr. Hill has great safety tips!</h5>
                               <div class="padding-top-5">
                                  <iframe width="700" height="400" src="https://www.youtube.com/embed/oImC1aBR-Xs?list=PLp3VbOdUkkm3rM7lw5Dh2PZpNZ_uB5TKw" frameborder="0" allowfullscreen></iframe>
                               </div>
