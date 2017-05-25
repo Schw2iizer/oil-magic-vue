@@ -170,6 +170,94 @@
                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/IU91FhDUc1Y" frameborder="0" allowfullscreen></iframe>
                               </div>
                           </div>
+                          <div class="margin-top-15">
+                              <div class="building youtube-wrapper">
+                                <h5>The culture of Doterra</h5>
+                                <iframe width="700" height="400" src="https://www.youtube.com/embed/tD0iRqdK-k4" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="margin-top-15">
+                              <h5>Discover your WHY in Doterra</h5>
+                              <p>Why do you want to share these amazing oils? Why do you want to earn an income and be a stay at home mother or father? Why do you need this in your life? Everyone’s WHY is different so lets discover yours!</p>
+                              <div class="building youtube-wrapper">
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/vWKU59Feaog" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="margin-top-15">
+                              <div class="building youtube-wrapper">
+                                  <h5>Your membership overview</h5>
+                                  <p>For a copy of this membership overview, click <a href="http://bit.ly/2jKJbrZ" target="_blank"><i>here</i></a>. The password is "edge".</p>
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/6oyRb7YyK-c" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="margin-top-15">
+                              <div class="building youtube-wrapper">
+                                  <h5>The Business Opportunity</h5>
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/3AtgFHOEAE8" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="margin-top-15">
+                              <div class="building youtube-wrapper">
+                                  <h5>Two videos on Doterra's Compensation Plan</h5>
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/Q_CnFpP1h88" frameborder="0" allowfullscreen></iframe>
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/i81FJwrw4Z4" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="margin-top-15">
+                              <div class="building youtube-wrapper">
+                                  <h5>How to teach a class</h5>
+                                  <p>This video is great! I also have class videos saved on my Facebook Page, <a href="https://www.facebook.com/oilmagicbymichelle" target="_blank"><i>Oilmagicbymichelle</i></a>. Go check out some other classes I have taught!</p>
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/zi5dUzEYbgY" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="margin-top-15">
+                              <div class="building youtube-wrapper">
+                                  <h5>How to host an online party</h5>
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/sm_74xhAQsI?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="margin-top-15">
+                              <div class="building youtube-wrapper">
+                                  <h5>How to enroll someone as a wholesale customer or Wellness Advocate</h5>
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/TxxeMb7TtYs" frameborder="0" allowfullscreen></iframe>
+                             </div>
+                          </div>
+                          <div class="margin-top-15">
+                              <div class="building youtube-wrapper">
+                                  <h5>How to book classes from classes</h5>
+                                <iframe width="700" height="400" src="https://www.youtube.com/embed/gcuXnG2xdoA?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
+                            </div>
+                          </div>
+                          <div class="margin-top-15">
+                              <div class="building youtube-wrapper">
+                                  <h5>How to work with a host</h5>
+                                <iframe width="700" height="400" src="https://www.youtube.com/embed/UNduJF8jE3I?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
+                            </div>
+                          </div>
+                          <div class="margin-top-15">
+                              <div class="building youtube-wrapper">
+                                  <h5>How to jump start your business</h5>
+                                <iframe width="700" height="400" src="https://www.youtube.com/embed/npHi_Buzx4c" frameborder="0" allowfullscreen></iframe>
+                            </div>
+                          </div>
+                          <div class="margin-top-15">
+                              <div class="building youtube-wrapper">
+                                  <h5>The Art of Finding Builders</h5>
+                                <iframe width="700" height="400" src="https://www.youtube.com/embed/FRfP9cLa8ms?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
+                            </div>
+                          </div>
+                          <div class="margin-top-15">
+                              <div class="building youtube-wrapper">
+                                  <h5>Duplication</h5>
+                                <iframe width="700" height="400" src="https://www.youtube.com/embed/UH_NeMCBFQ4?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
+                            </div>
+                          </div>
+                          <div class="margin-top-15">
+                              <div class="building youtube-wrapper">
+                                  <h5>Placements and Strategy for building your business</h5>
+                                <iframe width="700" height="400" src="https://www.youtube.com/embed/q0dY_P8DHZk?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
+                            </div>
+                          </div>
                       </div>
                       <div id="menu4" class="tab-pane fade">
                           <div class="margin-top-15">
