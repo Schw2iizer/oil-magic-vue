@@ -14,7 +14,11 @@
                   <!-- Phone Number  -->
                   <div class="col-md-6">
                     <div class="icon-box ib-style-1 ib-circle ib-bordered ib-bordered-white ib-bordered-thin ib-medium ib-text-alt i-xlarge dark-text">
-                      <div class="ib-icon"> <i class="fa fa-mobile text-primary"></i> </div>
+                    <a href="tel:8013603608" class="contact-info phone">
+                      <div class="ib-icon">
+                          <i class="fa fa-mobile text-primary"></i>
+                      </div>
+                      </a>
                       <div class="ib-info">
                         <a href="tel:8013603608" class="contact-info phone">(801) 360-3608</a>
                       </div>
@@ -24,9 +28,15 @@
                   <!-- Email  -->
                   <div class="col-md-6">
                     <div class="icon-box ib-style-1 ib-circle ib-bordered ib-bordered-white ib-bordered-thin ib-medium ib-text-alt i-large">
-                      <div class="ib-icon"> <i class="fa fa-envelope-o text-primary"></i> </div>
-                      <div class="ib-info text-dark">
-                        <p class="no-margin-bottom contact-info"><a href="mailto:michellecannon88@gmail.com">michellecannon88@gmail.com</a></p>
+                        <a href="mailto:michellecannon88@gmail.com">
+                            <div class="ib-icon">
+                                <i class="fa fa-envelope-o text-primary"></i>
+                            </div>
+                        </a>
+                        <div class="ib-info text-dark">
+                            <p class="no-margin-bottom contact-info">
+                                <a href="mailto:michellecannon88@gmail.com">michellecannon88@gmail.com</a>
+                            </p>
                       </div>
                     </div>
                   </div>
@@ -103,5 +113,8 @@ export default {
         font-size: 20px;
         font-weight: 300;
         margin-right: 150px;
+    }
+    .contact-me-wrapper {
+        font-size: 20px;
     }
 </style>
