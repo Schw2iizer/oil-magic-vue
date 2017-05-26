@@ -10,7 +10,7 @@
                       <h3 class="block-title no-underline"><span class="text-primary">Oil Magic by Michelle</span></h3>
                       <div class="block-content">
                         <p>We use essential oils to maintain a healthy lifestyle for our family. We clean with them, cook with them, basically our life revolves around our essential oils! About 6 years ago we started on our journey with essential oils for two basic needs: immune support and digestive support.</p>
-                        <img class="footer-logo" src="images/IMG_3688_1-min.jpg" alt="" /> </div>
+                    </div>
                     </div>
                   </div>
                   <!-- <div class="col-md-2">
@@ -35,9 +35,7 @@
                         <li v-for="i in instagramImages">
                             <a :href="i.link" target="_blank">
                                 <img :src="i.images.thumbnail.url" :alt="i.caption.text" />
-                                <span class="overlay">
-
-                                </span>
+                                <span class="overlay"></span>
                             </a>
                         </li>
                       </ul>
@@ -64,14 +62,9 @@
               </div>
             </div>
           </div>
-          <!-- End Footer Bottom -->
         </div>
       </footer>
-      <!-- End Footer -->
-
-
 </template>
-<!-- JavaScripts -->
 <script type="text/javascript" src="http://www.doterracertifiedsite.com/api/Certificates/Script?domain=oilmagicbymichelle.com&amp;sealSize=Small"></script>
 <script>
 export default {
@@ -86,7 +79,7 @@ export default {
     methods: {
         getInstagram: function () {
             var $this = this
-            this.$jsonp('https://api.instagram.com/v1/users/1558666427/media/recent/?access_token=1558666427.b409cca.dab9df328d5240c697626c81d3be6817&count=20&callback=?%27')
+            this.$jsonp('https://api.instagram.com/v1/users/1558666427/media/recent/?access_token=1558666427.b409cca.dab9df328d5240c697626c81d3be6817&count=10&callback=?%27')
             .then(function (response) {
                 $this.instagramImages = response.data
             })
