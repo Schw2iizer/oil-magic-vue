@@ -30,7 +30,7 @@
                   </div> -->
                   <div class="col-md-6">
                     <div class="block block-instagram-widget">
-                      <h3 class="block-title"><span>Instagram Photos</span></h3>
+                      <h3 class="block-title"><span>My Instagram Feed</span></h3>
                       <ul>
                         <li v-for="i in instagramImages">
                             <a :href="i.link" target="_blank">
