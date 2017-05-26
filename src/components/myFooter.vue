@@ -1,13 +1,10 @@
 <template lang="html">
         <footer id="footer">
         <div class="footer-wrapper">
-
-          <!-- Footer Top -->
           <div class="footer-top">
             <div class="footer-top-wrapper">
               <div class="container">
                 <div class="row">
-                  <!-- About Block -->
                   <div class="col-md-4">
                     <div class="block block-about">
                       <h3 class="block-title no-underline"><span class="text-primary">Oil Magic by Michelle</span></h3>
@@ -16,9 +13,6 @@
                         <img class="footer-logo" src="images/IMG_3688_1-min.jpg" alt="" /> </div>
                     </div>
                   </div>
-                  <!-- End About Block -->
-
-                  <!-- Footer Links Block -->
                   <!-- <div class="col-md-2">
                     <div class="block block-links">
                       <h3 class="block-title"><span>Info</span></h3>
@@ -34,32 +28,25 @@
                       </div>
                     </div>
                   </div> -->
-                  <!-- End Footer Links Block -->
-
-                  <!-- Instagram Widget Block -->
-                  <div class="col-md-3">
+                  <div class="col-md-6">
                     <div class="block block-instagram-widget">
                       <h3 class="block-title"><span>Instagram Photos</span></h3>
-                      <span>Coming Soon..</span>
-                      <ul >
-                        <!-- <li> <a href="#.."> <img src="images/footer/footer_instagram_01.png" alt="" /> <span class="overlay"><i class="fa fa-search"></i></span> </a> </li>
-                        <li> <a href="#.."> <img src="images/footer/footer_instagram_02.png" alt="" /> <span class="overlay"><i class="fa fa-search"></i></span> </a> </li>
-                        <li> <a href="#.."> <img src="images/footer/footer_instagram_03.png" alt="" /> <span class="overlay"><i class="fa fa-search"></i></span> </a> </li>
-                        <li> <a href="#.."> <img src="images/footer/footer_instagram_04.png" alt="" /> <span class="overlay"><i class="fa fa-search"></i></span> </a> </li>
-                        <li> <a href="#.."> <img src="images/footer/footer_instagram_05.png" alt="" /> <span class="overlay"><i class="fa fa-search"></i></span> </a> </li>
-                        <li> <a href="#.."> <img src="images/footer/footer_instagram_06.png" alt="" /> <span class="overlay"><i class="fa fa-search"></i></span> </a> </li> -->
+                      <ul>
+                        <li v-for="i in instagramImages">
+                            <a :href="i.link" target="_blank">
+                                <img :src="i.images.thumbnail.url" :alt="i.caption.text" />
+                                <span class="overlay">
+
+                                </span>
+                            </a>
+                        </li>
                       </ul>
                     </div>
                   </div>
-                  <!-- End Instagram Widget Block -->
-
                 </div>
               </div>
             </div>
           </div>
-          <!-- End Footer Top -->
-
-          <!-- Footer Bottom -->
           <div class="footer-bottom">
             <div class="footer-bottom-wrapper">
               <div class="container">
@@ -86,13 +73,25 @@
 </template>
 <!-- JavaScripts -->
 <script type="text/javascript" src="http://www.doterracertifiedsite.com/api/Certificates/Script?domain=oilmagicbymichelle.com&amp;sealSize=Small"></script>
-
-<!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
-<script type="text/javascript" src="rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-<script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-<script src="js/zap.js"></script>
 <script>
 export default {
+    data() {
+        return {
+            instagramImages: []
+        }
+    },
+    mounted: function (){
+        this.getInstagram()
+    },
+    methods: {
+        getInstagram: function () {
+            var $this = this
+            this.$jsonp('https://api.instagram.com/v1/users/1558666427/media/recent/?access_token=1558666427.b409cca.dab9df328d5240c697626c81d3be6817&count=20&callback=?%27')
+            .then(function (response) {
+                $this.instagramImages = response.data
+            })
+        }
+    }
 }
 </script>
 
@@ -103,5 +102,11 @@ export default {
     }
     .footer-wrapper p {
         color: white;
+    }
+    .overlay {
+        opacity: 0.3 !important;
+    }
+    .block-instagram-widget li {
+        width: 19.33% !important;
     }
 </style>

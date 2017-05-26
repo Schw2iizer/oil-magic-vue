@@ -8,7 +8,7 @@
                 </div>
               </div>
             </section>
-            <section class="padding-top-40 padding-bottom-40">
+            <section class="padding-top-80 padding-bottom-80">
               <div class="container">
                 <div class="heading-block style-4 text-left margin-bottom-10 width-100 align-center">
                   <h4 class="sky-blue-font">Welcome to my website! </h4>

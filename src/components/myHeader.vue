@@ -85,14 +85,14 @@ import Instagram from '../resources/instagram.js'
 export default {
     data() {
         return {
+            
         }
     },
     mounted: function (){
-        this.getInstagram()
+
     },
     methods: {
         getPassword: function () {
-            console.log('clicked')
             SweetAlert({
                 title: 'Password required.',
                 input: 'text',
@@ -112,13 +112,6 @@ export default {
                         }
                     })
                 }
-            })
-        },
-        getInstagram: function () {
-            // Instagram.getPhotos()
-            this.$jsonp('https://api.instagram.com/v1/tags/nofilter/media/recent?access_token=329480.43f69c4.13835b10df3244d896e7ea4f008a00a0')
-            .then(function (response) {
-                console.log(response)
             })
         }
     }
