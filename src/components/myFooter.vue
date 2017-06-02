@@ -32,7 +32,7 @@
                     <div class="block block-instagram-widget">
                       <h3 class="block-title"><span>My Instagram Feed</span></h3>
                       <ul>
-                        <li v-for="i in instagramImages">
+                        <li v-for="i in instagramImages" track-by="$index">
                             <a :href="i.link" target="_blank">
                                 <img :src="i.images.thumbnail.url" :alt="i.caption.text" />
                                 <span class="overlay"></span>
@@ -70,7 +70,7 @@
 export default {
     data() {
         return {
-            instagramImages: []
+            instagramImages: [],
         }
     },
     mounted: function (){
@@ -97,7 +97,12 @@ export default {
         color: white;
     }
     .overlay {
-        opacity: 0.3 !important;
+        opacity: .5 !important;
+    }
+    .overlay p {
+        color: black;
+        text-align: center;
+        font-size: 12px;
     }
     .block-instagram-widget li {
         width: 19.33% !important;

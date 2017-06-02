@@ -42,10 +42,10 @@
                         <router-link :to="{ path: '/about' }">Our Story</router-link>
                     </li>
                     <li>
-                        <router-link :to="({path: 'favorite-products'})">Our Favorite Products</router-link>
+                        <router-link :to="{path: 'favorite-products'}">Our Favorite Products</router-link>
                     </li>
                     <li>
-                        <router-link :to="({path: 'healthy-lifestyle'})">Why We Choose a Natural Lifestyle</router-link>
+                        <router-link :to="{path: 'healthy-lifestyle'}">Why We Choose a Natural Lifestyle</router-link>
                     </li>
                   </ul>
                 </li>
@@ -58,8 +58,8 @@
                 </li>
                 <li><a>About Oils</a>
                   <ul class="dropdown">
-                    <li><router-link :to="({ path: 'how-to-use'})">How to Use Doterra Essential Oils</router-link></li>
-                    <li><router-link :to="({ path: 'resources'})">Doterra Resourcecs</router-link></li>
+                    <li><router-link :to="{ path: 'how-to-use'}">How to Use Doterra Essential Oils</router-link></li>
+                    <li><router-link :to="{ path: 'resources'}">Doterra Resourcecs</router-link></li>
                   </ul>
                 </li>
                 <li><a>Get Started</a>
@@ -69,9 +69,9 @@
                     <li><router-link :to="{path: 'loyalty-rewards'}">Loyalty Rewards Program</router-link></li>
                   </ul>
                 </li>
-                <li><router-link :to="({ path: 'contact' })">Contact</router-link></li>
-                <li><router-link to="team">Team</router-link></li>
-                <li @click="getPassword()" class="pointer"><a>Members Login</a></li>
+                <li><router-link :to="{ path: 'contact' }">Contact</router-link></li>
+                <li><router-link :to="{path: 'team'}">Team</router-link></li>
+                <li @click="getPassword()" class="pointer copy-link-styles">Members Login</li>
               </ul>
             </nav>
           </div>
@@ -85,7 +85,7 @@ import Instagram from '../resources/instagram.js'
 export default {
     data() {
         return {
-            
+
         }
     },
     mounted: function (){
@@ -119,5 +119,21 @@ export default {
 </script>
 
 <style lang="css">
+    .header-wrapper .copy-link-styles {
+        color: #141414;
+        border-top: 1px solid #fff;
+        border-bottom: 1px solid #fff;
+        padding: 15px 0;
+        border-color: transparent;
+        margin: 0;
+        margin-top: 1px;
+        line-height: 20px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        float: left;
+        font-size: 13px;
+        font-weight: normal;
+        position: relative;
+    }
 
 </style>

@@ -330,6 +330,11 @@ header .logo{
 	padding: 10px 0;
 	text-align: left;
 }
+
+.copy-link-styles {
+	text-align: left;
+}
+
 .ownmenu .indicator {
 	display: block;
 }
