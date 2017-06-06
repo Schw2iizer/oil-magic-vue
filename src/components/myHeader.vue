@@ -102,7 +102,7 @@ export default {
                 confirmButtonColor: '#00cdcd',
                 preConfirm: function (password) {
                     return new Promise(function (resolve, reject) {
-                        if (password === 'Powerteam') {
+                        if (password === 'Oilmagicdreamteam') {
                             window.location.href = '/#/members-only'
                             resolve()
                         } else if (password === null) {
