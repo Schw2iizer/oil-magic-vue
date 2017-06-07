@@ -1,7 +1,7 @@
 <template lang="html">
     <div class="favorite-product-wrapper">
         <div id="content">
-          <section class="sub-banner" style="background:url(/images/favorite-products-compressed.jpg)  no-repeat; background-size: 100% auto">
+          <section class="sub-banner" style="background:url(/images/favorite-products-compressed.jpg) no-repeat; background-size: 100% auto">
             <div class="container">
               <div class="position-center-center">
                 <h2 style="color: black">OUR FAVORITE PRODUCTS</h2>
