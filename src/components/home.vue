@@ -1,14 +1,14 @@
 <template lang="html">
     <div class="home-wrapper">
         <div class="content">
-            <section class="sub-banner animated fadeIn" style="background:url(images/fam_pic_wide_optimized.png) fixed no-repeat center; background-size: 100% auto">
+            <section class="sub-banner animated fadeIn" style="background:url(images/fam_pic_wide_optimized.png) no-repeat center; background-size: 100% auto">
               <div class="container">
                 <div class="position-center-center">
                   <h2></h2>
                 </div>
               </div>
             </section>
-            <section class="padding-top-80 padding-bottom-80">
+            <section class="padding-top-40 padding-bottom-40">
               <div class="container">
                 <div class="heading-block style-4 text-left margin-bottom-10 width-100 align-center">
                   <h4 class="sky-blue-font">Welcome to my website! </h4>
@@ -39,5 +39,8 @@ export default {
     }
     .home-wrapper a:hover {
         color: black !important;
+    }
+    .home-wrapper .sub-banner {
+        min-height: 615px;
     }
 </style>

@@ -38,7 +38,7 @@ const routes = [
   {path: '/contact', component: Contact},
   {path: '/co-impact-sourcing', component: ImpactSourcing},
   {path: '/healthy-lifestyle', component: HealthyLifestyle},
-  {path: '/members-only', component: MembersPage},
+  {path: '/members-only/', component: MembersPage},
   {path: '/why-doterra', component: WhyDoterra},
   {path: '/how-to-use', component: HowTo},
   {path: '/resources', component: Resources},
