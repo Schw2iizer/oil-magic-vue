@@ -5,7 +5,7 @@
             <div class="container">
               <div class="position-center-center">
                 <h2>HELLO, I’M MICHELLE CANNON</h2>
-                <h4 class="white-text margin-top-20">Doterra Diamond Leader</h4>
+                <h4 class="white-text margin-top-20">Doterra Blue Diamond Leader</h4>
               </div>
             </div>
           </section>
