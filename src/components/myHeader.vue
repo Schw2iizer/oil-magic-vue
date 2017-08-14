@@ -69,7 +69,7 @@
                     <li><router-link :to="{path: 'loyalty-rewards'}">Loyalty Rewards Program</router-link></li>
                   </ul>
                 </li>
-                <li><router-link :to="{ path: 'contact' }">Contact</router-link></li>
+                <!-- <li><router-link :to="{ path: 'contact' }">Contact</router-link></li> -->
                 <li><router-link :to="{path: 'team'}">Team</router-link></li>
                 <li @click="getPassword()" class="pointer copy-link-styles">Members Login</li>
               </ul>
