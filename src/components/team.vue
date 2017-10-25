@@ -11,9 +11,9 @@
         <section class="team style-6 padding-bottom-40 padding-top-20">
         <div class="container">
           <div class="heading-block style-6 text-center">
-            <img class="margin-top-20 margin-bottom-10" src="images/crown.png" alt="" > <span>MY GOLD LEADERS</span>
+            <img class="margin-top-20 margin-bottom-10" src="images/crown.png" alt="" > <span>MY PLATINUM LEADERS</span>
          </div>
-         <div class="">
+         <div class="platinum-leaders">
              <ul class="">
                <li class="col-md-3">
                  <div class="team-image">
@@ -27,7 +27,7 @@
                    </ul>
                    <div class="member-detail">
                      <h6>Kelli Hunter</h6>
-                     <span class="font-crimson font-italic">Gold Leader from Arizona</span> </div>
+                     <span class="font-crimson font-italic">Platinum Leader from Arizona</span> </div>
                  </div>
                </li>
                <li class="col-md-3">
@@ -42,45 +42,66 @@
                    </ul>
                    <div class="member-detail">
                      <h6>Cortney Clegg</h6>
-                     <span class="font-crimson font-italic">Gold Leader from Utah</span></div>
-                 </div>
-               </li>
-               <li class="col-md-3">
-                 <div class="team-image">
-                     <div class="profile">
-                         <img class="img-responsive" src="images/dr_aly.png" alt="Doctor Aly">
-                     </div>
-                   <ul class="social-icons text-center">
-                     <li><a href="https://www.instagram.com/wherejunipergrows/" target="_blank"><i class="fa fa-instagram" target="_blank"></i></a></li>
-                     <li><a href="http://www.wherejunipergrows.com"><i class="fa fa-newspaper-o"></i></a></li>
-                     <li><a href="mailto:wherejunipergrows@gmail.com"><i class="fa fa-envelope"></i></a></li>
-                   </ul>
-                   <div class="member-detail">
-                     <h6>Alysia Doyle</h6>
-                     <span class="font-crimson font-italic">Gold Leader from Maine</span></div>
+                     <span class="font-crimson font-italic">Platinum Leader from Utah</span></div>
                  </div>
                </li>
              </ul>
+         </div>
+          <div class="heading-block style-6 text-center">
+            <img class="margin-top-20 margin-bottom-10" src="images/crown.png" alt="" > <span>MY GOLD LEADERS</span>
+         </div>
+         <div class="gold-leaders">
+           <ul class="">
+             <li class="col-md-3">
+               <div class="team-image">
+                   <div class="profile">
+                       <img class="img-responsive" src="images/dr_aly.png" alt="Doctor Aly">
+                   </div>
+                 <ul class="social-icons text-center">
+                   <li><a href="https://www.instagram.com/wherejunipergrows/" target="_blank"><i class="fa fa-instagram" target="_blank"></i></a></li>
+                   <li><a href="http://www.wherejunipergrows.com"><i class="fa fa-newspaper-o"></i></a></li>
+                   <li><a href="mailto:wherejunipergrows@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                 </ul>
+                 <div class="member-detail">
+                   <h6>Alysia Doyle</h6>
+                   <span class="font-crimson font-italic">Gold Leader from Maine</span></div>
+               </div>
+             </li>
+             <li class="col-md-3">
+               <div class="team-image">
+                   <div class="profile">
+                       <img class="img-responsive" src="images/kelli_johnson.png" alt="Kelli Hunter">
+                   </div>
+                 <ul class="social-icons text-center">
+                   <li><a href="https://www.instagram.com/oil.love.by.kelli/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                   <li><a href="mailto:oil.love.by.kelli@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                 </ul>
+                 <div class="member-detail">
+                   <h6>Kelli Johnson</h6>
+                   <span class="font-crimson font-italic">Gold Leader from Arizona</span> </div>
+               </div>
+             </li>
+             <li class="col-md-3">
+               <div class="team-image">
+                   <div class="profile">
+                       <img class="img-responsive" src="images/nissa_moreno.png" alt="Nissa Moreno">
+                   </div>
+                 <ul class="social-icons text-center">
+                     <li><a href="tel:7148784188 "><i class="fa fa-phone"></i></a></li>
+                     <li><a href="mailto:Nissa@SipOfHauteTea.com "><i class="fa fa-envelope"></i></a></li>
+                 </ul>
+                 <div class="member-detail">
+                   <h6>Nissa Moreno</h6>
+                   <span class="font-crimson font-italic">Gold Leader from California</span> </div>
+               </div>
+             </li>
+           </ul>
          </div>
           <div class="silver-leaders">
               <div class="heading-block style-6 text-center">
                 <img class="margin-top-20 margin-bottom-10" src="images/crown.png" alt="" > <span>MY SILVER LEADERS</span>
               </div>
               <ul class="row center">
-                <li class="col-md-3">
-                  <div class="team-image">
-                      <div class="profile">
-                          <img class="img-responsive" src="images/kelli_johnson.png" alt="Kelli Hunter">
-                      </div>
-                    <ul class="social-icons text-center">
-                      <li><a href="https://www.instagram.com/oil.love.by.kelli/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                      <li><a href="mailto:oil.love.by.kelli@gmail.com"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                    <div class="member-detail">
-                      <h6>Kelli Johnson</h6>
-                      <span class="font-crimson font-italic">Silver Leader from Arizona</span> </div>
-                  </div>
-                </li>
                 <li class="col-md-3">
                     <div class="team-image">
                         <div class="profile">
@@ -96,6 +117,50 @@
                         <h6>Jennifer Morgan</h6>
                         <span class="font-crimson font-italic">Silver Leader from New York</span> </div>
                     </div>
+                </li>
+                <li class="col-md-3">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/kari_barras.png" alt="Kari Barras">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="https://www.instagram.com/KarebearOilLove/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                      <li><a href="tel:3375403360"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="mailto:"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Kari Barras</h6>
+                      <span class="font-crimson font-italic">Silver Leader from Lousiana</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/jenni_soleau.png" alt="Jenny Soileau">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="tel:3375137273"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="mailto:jennysoileau@hotmail.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Jenny Soileau</h6>
+                      <span class="font-crimson font-italic">Silver Leader from Lousiana</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/christine_ceperano.png" alt="Christy Ceperano">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="https://www.instagram.com/cepoils" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                      <li><a href="tel:7865479888"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="mailto:Essentiallyccep28@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Christy Ceperano</h6>
+                      <span class="font-crimson font-italic">Silver Leader from Florida</span> </div>
+                  </div>
                 </li>
               </ul>
           </div>
@@ -118,53 +183,6 @@
                       <span class="font-crimson font-italic">Premiere Leader from California</span> </div>
                   </div>
                 </li>
-                <li class="col-md-3">
-                  <div class="team-image">
-                      <div class="profile">
-                          <img class="img-responsive" src="images/christine_ceperano.png" alt="Christine Ceperano">
-                      </div>
-                    <ul class="social-icons text-center">
-                      <li><a href="mailto:Essentiallyccep28@gmail.com"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                    <div class="member-detail">
-                      <h6>Christine Ceperano</h6>
-                      <span class="font-crimson font-italic">Premiere Leader from Florida</span> </div>
-                  </div>
-                </li>
-                <li class="col-md-3">
-                  <div class="team-image">
-                      <div class="profile">
-                          <img class="img-responsive" src="images/kari_barras.png" alt="Kari Barras">
-                      </div>
-                    <ul class="social-icons text-center">
-                      <li><a href="https://www.instagram.com/KarebearOilLove/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                      <li><a href="tel:3375403360"><i class="fa fa-phone"></i></a></li>
-                      <li><a href="mailto:"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                    <div class="member-detail">
-                      <h6>Kari Barras</h6>
-                      <span class="font-crimson font-italic">Premiere Leader from Lousiana</span> </div>
-                  </div>
-                </li>
-                <li class="col-md-3">
-                  <div class="team-image">
-                      <div class="profile">
-                          <img class="img-responsive" src="images/jenni_soleau.png" alt="Jenny Soileau">
-                      </div>
-                    <ul class="social-icons text-center">
-                      <li><a href="tel:3375137273"><i class="fa fa-phone"></i></a></li>
-                      <li><a href="mailto:jennysoileau@hotmail.com"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                    <div class="member-detail">
-                      <h6>Jenny Soileau</h6>
-                      <span class="font-crimson font-italic">Premiere Leader from Lousiana</span> </div>
-                  </div>
-                </li>
-              </ul>
-          </div>
-          <div class="premier-leaders">
-              <div class="heading-block style-6 text-center"></div>
-              <ul class="row center">
                 <li class="col-md-3">
                   <div class="team-image">
                       <div class="profile">
@@ -203,31 +221,62 @@
                       </div>
                     <ul class="social-icons text-center">
                       <li><a href="https://www.instagram.com/CheriseHealingMoon/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                      <li><a href="https://www.instagram.com/HealingMoonObscura/" target="_blank"><i class="fa fa-instagram"></i></a></li>
                     </ul>
                     <div class="member-detail">
                       <h6>Cherise Williams</h6>
                       <span class="font-crimson font-italic">Premiere Leader from Ohio</span> </div>
                   </div>
                 </li>
+              </ul>
+          </div>
+          <div class="premier-leaders">
+              <div class="heading-block style-6 text-center"></div>
+              <ul class="row center">
                 <li class="col-md-3">
                   <div class="team-image">
                       <div class="profile">
-                          <img class="img-responsive" src="images/nissa_moreno.png" alt="Nissa Moreno">
+                          <img class="img-responsive" src="images/alanna.jpeg" alt="Alanna Dillon">
                       </div>
                     <ul class="social-icons text-center">
-                        <li><a href="tel:7148784188 "><i class="fa fa-phone"></i></a></li>
-                        <li><a href="mailto:Nissa@SipOfHauteTea.com "><i class="fa fa-envelope"></i></a></li>
+                      <li><a href="https://www.instagram.com/practicalmagicessentials" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                      <li><a href="tel:9492918016"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="mailto:practicalmagicessentials@gmail.com"><i class="fa fa-envelope"></i></a></li>
                     </ul>
                     <div class="member-detail">
-                      <h6>Nissa Moreno</h6>
+                      <h6>Alanna Dillon</h6>
                       <span class="font-crimson font-italic">Premiere Leader from California</span> </div>
                   </div>
                 </li>
-
+                <li class="col-md-3">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/kaycee_bassett.jpg" alt="Kaycee Bassett">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="https://www.instagram.com/holistic.hue" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                      <li><a href="tel:8014254146"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="mailto:hue@holistichue.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Kaycee Bassett</h6>
+                      <span class="font-crimson font-italic">Premiere Leader from Utah</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/tracy_phelps.png" alt="Tracy Phelps">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="mailto:tcowger@yahoo.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Tracy Phelps</h6>
+                      <span class="font-crimson font-italic">Premiere Leader from California</span> </div>
+                  </div>
+                </li>
               </ul>
           </div>
-
         </div>
       </section>
     </div>
