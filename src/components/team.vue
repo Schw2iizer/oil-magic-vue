@@ -275,6 +275,35 @@
                       <span class="font-crimson font-italic">Premiere Leader from California</span> </div>
                   </div>
                 </li>
+                <li class="col-md-3">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/kris_alana.jpeg" alt="Kris Alana">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="mailto:kalana78@att.net"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Kris Alana</h6>
+                      <span class="font-crimson font-italic">Premiere Leader from California</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3 lisa-hill">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/lisa_hill.JPG" alt="Lisa Hill">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="https://www.facebook.com/TeamOILTRIBE/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                      <li><a href="https://www.instagram.com/teamoiltribe/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                      <li><a href="tel:5623916104"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="mailto:TeamOilTribe@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Lisa Hill</h6>
+                      <span class="font-crimson font-italic">Premiere Leader from California</span> </div>
+                  </div>
+                </li>
               </ul>
           </div>
         </div>
