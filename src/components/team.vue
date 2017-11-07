@@ -329,7 +329,7 @@ export default {
     }
 
     .team-wrapper .team-image img {
-        height: auto;
+        min-height: 325px;
         width: 100%;
     }
 
@@ -341,5 +341,11 @@ export default {
         height: 325px;
         width: 265px;
         overflow: hidden;
+    }
+
+    @media only screen and (max-device-width: 415px) {
+      .platinum-leaders ul {
+        display: flex;
+      }
     }
 </style>
