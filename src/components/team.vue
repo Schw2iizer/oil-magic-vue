@@ -11,8 +11,30 @@
         <section class="team style-6 padding-bottom-40 padding-top-20">
         <div class="container">
           <div class="heading-block style-6 text-center">
-            <img class="margin-top-20 margin-bottom-10" src="images/crown.png" alt="" > <span>MY PLATINUM LEADERS</span>
+            <img class="margin-top-20 margin-bottom-10" src="images/crown.png" alt="" > <span>MY DIAMOND LEADERS</span>
+          </div>
+         <div class="platinum-leaders">
+             <ul class="">
+               <li class="col-md-3">
+                 <div class="team-image">
+                     <div class="profile">
+                        <img class="img-responsive" src="images/cortney_clegg.png" alt="Cortney Clegg">
+                     </div>
+                   <ul class="social-icons text-center">
+                     <li><a href="https://www.instagram.com/an.oil.a.day"><i class="fa fa-instagram"></i></a></li>
+                     <li><a href="tel:8015889848"><i class="fa fa-phone"></i></a></li>
+                     <li><a href="mailto:Teamoiladay@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                   </ul>
+                   <div class="member-detail">
+                     <h6>Cortney Clegg</h6>
+                     <span class="font-crimson font-italic">Platinum Leader from Missouri</span></div>
+                 </div>
+               </li>
+             </ul>
          </div>
+          <div class="heading-block style-6 text-center">
+            <img class="margin-top-20 margin-bottom-10" src="images/crown.png" alt="" > <span>MY PLATINUM LEADERS</span>
+          </div>
          <div class="platinum-leaders">
              <ul class="">
                <li class="col-md-3">
@@ -28,21 +50,6 @@
                    <div class="member-detail">
                      <h6>Kelli Hunter</h6>
                      <span class="font-crimson font-italic">Platinum Leader from Arizona</span> </div>
-                 </div>
-               </li>
-               <li class="col-md-3">
-                 <div class="team-image">
-                     <div class="profile">
-                        <img class="img-responsive" src="images/cortney_clegg.png" alt="Cortney Clegg">
-                     </div>
-                   <ul class="social-icons text-center">
-                     <li><a href="https://www.instagram.com/an.oil.a.day"><i class="fa fa-instagram"></i></a></li>
-                     <li><a href="tel:8015889848"><i class="fa fa-phone"></i></a></li>
-                     <li><a href="mailto:Teamoiladay@gmail.com"><i class="fa fa-envelope"></i></a></li>
-                   </ul>
-                   <div class="member-detail">
-                     <h6>Cortney Clegg</h6>
-                     <span class="font-crimson font-italic">Platinum Leader from Utah</span></div>
                  </div>
                </li>
              </ul>
@@ -162,6 +169,21 @@
                       <span class="font-crimson font-italic">Silver Leader from Florida</span> </div>
                   </div>
                 </li>
+                <li class="col-md-3 cassidy_mullis">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/cassidy_mullis.png" alt="Cassidy Mullis">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="https://www.instagram.com/Those.silly.oils/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                      <li><a href="tel:7048064608"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="mailto:Thosesillyoils.gmail.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Cassidy Mullis</h6>
+                      <span class="font-crimson font-italic">Premiere Leader from North Carolina</span> </div>
+                  </div>
+                </li>
               </ul>
           </div>
           <div class="premier-leaders">
@@ -181,21 +203,6 @@
                     <div class="member-detail">
                       <h6>Samantha Mueller</h6>
                       <span class="font-crimson font-italic">Premiere Leader from California</span> </div>
-                  </div>
-                </li>
-                <li class="col-md-3">
-                  <div class="team-image">
-                      <div class="profile">
-                          <img class="img-responsive" src="images/cassidy_mullis.png" alt="Cassidy Mullis">
-                      </div>
-                    <ul class="social-icons text-center">
-                      <li><a href="https://www.instagram.com/Those.silly.oils/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                      <li><a href="tel:7048064608"><i class="fa fa-phone"></i></a></li>
-                      <li><a href="mailto:Thosesillyoils.gmail.com"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                    <div class="member-detail">
-                      <h6>Cassidy Mullis</h6>
-                      <span class="font-crimson font-italic">Premiere Leader from North Carolina</span> </div>
                   </div>
                 </li>
                 <li class="col-md-3">
@@ -225,6 +232,22 @@
                     <div class="member-detail">
                       <h6>Cherise Williams</h6>
                       <span class="font-crimson font-italic">Premiere Leader from Ohio</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/lisa_hill.JPG" alt="Lisa Hill">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="https://www.facebook.com/TeamOILTRIBE/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                      <li><a href="https://www.instagram.com/teamoiltribe/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                      <li><a href="tel:5623916104"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="mailto:TeamOilTribe@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Lisa Hill</h6>
+                      <span class="font-crimson font-italic">Premiere Leader from California</span> </div>
                   </div>
                 </li>
               </ul>
@@ -288,22 +311,6 @@
                       <span class="font-crimson font-italic">Premiere Leader from California</span> </div>
                   </div>
                 </li>
-                <li class="col-md-3 lisa-hill">
-                  <div class="team-image">
-                      <div class="profile">
-                          <img class="img-responsive" src="images/lisa_hill.JPG" alt="Lisa Hill">
-                      </div>
-                    <ul class="social-icons text-center">
-                      <li><a href="https://www.facebook.com/TeamOILTRIBE/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                      <li><a href="https://www.instagram.com/teamoiltribe/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                      <li><a href="tel:5623916104"><i class="fa fa-phone"></i></a></li>
-                      <li><a href="mailto:TeamOilTribe@gmail.com"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                    <div class="member-detail">
-                      <h6>Lisa Hill</h6>
-                      <span class="font-crimson font-italic">Premiere Leader from California</span> </div>
-                  </div>
-                </li>
               </ul>
           </div>
         </div>
@@ -341,6 +348,10 @@ export default {
         height: 325px;
         width: 265px;
         overflow: hidden;
+    }
+
+    .col-md-3.cassidy_mullis {
+      margin-top: 50px;
     }
 
     @media only screen and (max-device-width: 415px) {
