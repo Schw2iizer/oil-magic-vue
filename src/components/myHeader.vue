@@ -136,4 +136,8 @@ export default {
         position: relative;
     }
 
+    .header-wrapper .ownmenu {
+      cursor: pointer;
+    }
+
 </style>
