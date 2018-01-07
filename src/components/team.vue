@@ -27,7 +27,7 @@
                    </ul>
                    <div class="member-detail">
                      <h6>Cortney Clegg</h6>
-                     <span class="font-crimson font-italic">Platinum Leader from Missouri</span></div>
+                     <span class="font-crimson font-italic">Diamond Leader from Missouri</span></div>
                  </div>
                </li>
              </ul>
@@ -169,7 +169,7 @@
                       <span class="font-crimson font-italic">Silver Leader from Florida</span> </div>
                   </div>
                 </li>
-                <li class="col-md-3 cassidy_mullis">
+                <li class="col-md-3 margin-top-50">
                   <div class="team-image">
                       <div class="profile">
                           <img class="img-responsive" src="images/cassidy_mullis.png" alt="Cassidy Mullis">
@@ -181,7 +181,60 @@
                     </ul>
                     <div class="member-detail">
                       <h6>Cassidy Mullis</h6>
-                      <span class="font-crimson font-italic">Premiere Leader from North Carolina</span> </div>
+                      <span class="font-crimson font-italic">Silver Leader from North Carolina</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3 margin-top-50">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/amy_johnson.png" alt="Amy Johnson">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="mailto:asargent81@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Amy Johnson</h6>
+                      <span class="font-crimson font-italic">Silver Leader from Arizona</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3 margin-top-50">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/cat_yates.png" alt="Cat Yates">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="https://www.instagram.com/dosoils" target="_blank" rel="noreferrer noopener"><i class="fa fa-instagram"></i></a></li>
+                      <li><a href="mailto:cat@dosoils.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Cat Yates</h6>
+                      <span class="font-crimson font-italic">Silver Leader from Nevada</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3 margin-top-50">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/amber_clegg.png" alt="Amber Clegg">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="mailto:amberclegg@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Amber Clegg</h6>
+                      <span class="font-crimson font-italic">Silver Leader from Nebraska</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3 margin-top-50">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/stephanie_king.png" alt="Stephanie King">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="mailto:sking.birth@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Stephanie King</h6>
+                      <span class="font-crimson font-italic">Silver Leader from Utah</span> </div>
                   </div>
                 </li>
               </ul>
@@ -311,6 +364,32 @@
                       <span class="font-crimson font-italic">Premiere Leader from California</span> </div>
                   </div>
                 </li>
+                <li class="col-md-3 margin-top-50">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/kelley_williams.png" alt="Kelley Williams">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="mailto:woodlands_kelley@yahoo.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Kelley Williams</h6>
+                      <span class="font-crimson font-italic">Premiere Leader from Texas</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3 margin-top-50">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/jeni_nelson.png" alt="Jeni Nelson">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="mailto:jstar1175@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Jeni Nelson</h6>
+                      <span class="font-crimson font-italic">Premiere Leader from Oregon</span> </div>
+                  </div>
+                </li>
               </ul>
           </div>
         </div>
@@ -350,8 +429,9 @@ export default {
         overflow: hidden;
     }
 
-    .col-md-3.cassidy_mullis {
-      margin-top: 50px;
+    .team-wrapper .heading-block {
+      margin-top: 20px;
+      margin-bottom: 20px;
     }
 
     @media only screen and (max-device-width: 415px) {
