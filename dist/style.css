@@ -7178,7 +7178,7 @@ blockquote cite {
 }
 
 .youtube-wrapper {
-	text-align: center
+	text-align: center;
 }
 
 .oil-magic-logo {
@@ -7195,10 +7195,6 @@ blockquote cite {
 	width: 100%;
 	height: 36px;
 	background: rgb(231, 231, 231);
-}
-
-.col-md-3.lisa-hill {
-	margin-top: 50px;
 }
 
 /*.sub-banner h2 {

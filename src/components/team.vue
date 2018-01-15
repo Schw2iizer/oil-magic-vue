@@ -21,7 +21,7 @@
                         <img class="img-responsive" src="images/cortney_clegg.png" alt="Cortney Clegg">
                      </div>
                    <ul class="social-icons text-center">
-                     <li><a href="https://www.instagram.com/an.oil.a.day"><i class="fa fa-instagram"></i></a></li>
+                     <li><a href="https://www.instagram.com/an.oil.a.day" target="_blank"><i class="fa fa-instagram"></i></a></li>
                      <li><a href="tel:8015889848"><i class="fa fa-phone"></i></a></li>
                      <li><a href="mailto:Teamoiladay@gmail.com"><i class="fa fa-envelope"></i></a></li>
                    </ul>
