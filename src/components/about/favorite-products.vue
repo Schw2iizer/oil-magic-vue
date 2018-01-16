@@ -18,7 +18,7 @@
                 </p>
                 <hr>
                 <div class="heading-block no-margin-bottom">
-                  <h2 class="margin-bottom-20 margin-top-0">The top 10 oils!</h2>
+                  <h2 class="margin-bottom-20 margin-top-0">The top 10 oils</h2>
                 </div>
                 <p>The Family Essentials Kit is a collection of ten nurturing essential oils, including six single oils and four blends. <br>
 
@@ -46,6 +46,6 @@ export default {
 
 <style lang="css">
     .favorite-product-wrapper .sub-banner {
-        min-height: 830px;
+        min-height: 660px;
     }
 </style>
