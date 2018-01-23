@@ -48,7 +48,7 @@
                 <div class="portfolio-image"> <a href="#."> <img alt="Family Essentials Kit" src="images/family-essentials.png"> </a> </div>
                 <div class="portfolio-overlay">
                   <div class="position-center-center">
-                    <h3><a href="#.">Family Essentials Kit and Beadlets</a></h3>
+                    <h3><a href="#">Family Essentials Kit</a></h3>
                     <span class="margin-top-25">
                         <p>Includes (5 mL bottles):
                             <a href="https://doterra.com/US/en/p/lavender-oil">Lavender</a>,
@@ -138,41 +138,6 @@
 
               <!-- ITEM -->
               <article class="portfolio-item pf-branding-design pf-web-design">
-                <div class="portfolio-image"> <a href="#."> <img alt="Family Wellness Kit" src="images/family-wellness.png"> </a> </div>
-                <div class="portfolio-overlay">
-                  <div class="position-center-center">
-                    <h3><a href="#.">Family Wellness Kit</a></h3>
-                    <span class="margin-top-25">
-                        <p> Includes (10 mL Bottles):
-                            <a href="https://doterra.com/US/en/p/doterra-cheer-touch-uplifting-blend-oil">doTERRA Cheer&reg; Touch</a>,
-                            <a href="https://doterra.com/US/en/p/doterra-peace-touch-reassuring-blend-oil"> doTERRA Peace&reg; Touch</a>,
-                            <a href="https://doterra.com/US/en/p/doterra-breathe-touch-essential-oil-blend"> doTERRA Breathe&reg; Touch</a>,
-                            <a href="https://doterra.com/US/en/p/deep-blue-touch-blend-oil"> doTERRA Deep Blue&reg; Touch</a>,
-                            <a href="https://doterra.com/US/en/p/doterra-touch-digestzen-essential-oil-blend">doTERRA DigestZen&reg; Touch</a>,
-                            <a href="https://doterra.com/US/en/p/doterra-frankincense-touch-blend-oil">dōTERRA Frankincense Touch</a>,
-                            <a href="https://doterra.com/US/en/p/lavender-touch-blend-oil">doTERRA Lavender Touch </a>,
-                            <a href="https://doterra.com/US/en/p/melaleuca-touch-blend-oil">doTERRA Melaleuca Touch </a>,
-                            <a href="https://doterra.com/US/en/p/on-guard-touch-blend-oil">doTERRA On Guard&reg; Touch </a> and
-                            <a href="https://doterra.com/US/en/p/doterra-peppermint-touch-blend-oil">doTERRA Peppermint Touch </a>
-                            <br>
-                            Other products included:
-                            <a href="https://doterra.com/US/en/p/supplements-daily-vitality-doterra-lifelong-vitality-pack">doTERRA Lifelong Vitality Pack&reg;</a>,
-                            <a href="https://doterra.com/US/en/p/pb-assist-jr">PB Assist&reg; Jr</a>,
-                            <a href="https://doterra.com/US/en/p/doterra-a2z-chewable">doTERRA a2z Chewable&reg;</a> and Wellness Advocate Introductory Packet.
-                            <br>
-                            Wholesale: $275.00,
-                            PV: 225,
-                            Savings: $99.00
-                            <br>
-                            Click <a href="https://www.mydoterra.com/michellecannon88/#/" target="_blank">here</a> and on the Shop tab to learn about what is included.
-                        </p>
-                    </span>
-                </div>
-                </div>
-              </article>
-
-              <!-- ITEM -->
-              <article class="portfolio-item pf-branding-design pf-web-design">
                 <div class="portfolio-image"> <a href="#."> <img alt="Cleanse Kit" src="images/home-essentials-kit.png"> </a> </div>
                 <div class="portfolio-overlay">
                   <div class="position-center-center">
@@ -223,11 +188,7 @@
                             <a href="https://doterra.com/US/en/p/balance-grounding-blend-oil">doTERRA Balance</a>,
                             <a href="https://doterra.com/US/en/p/supplements-digestive-health-digestzen-terrazyme-digestive-enzyme-complex"> DigestZen TerraZyme&reg;</a>,
                             <a href="https://doterra.com/US/en/p/aromatouch-massage-blend-oil">AromaTouch</a>,
-                            <a href="https://doterra.com/US/en/p/doterra-serenity-oil">doTERRA Serenity&reg;</a>,
-                            <a href="https://doterra.com/US/en/p/breathe-respiratory-blend-oil">Doterra Breathe&reg;</a>,
-                            <a href="https://doterra.com/US/en/p/on-guard-oil-beadlet">doTERRA On Guard&reg; Beadlets</a>
-                            <a href="https://doterra.com/US/en/p/onguard-natural-whitening-toothpaste">doTERRA On Guard&reg; Toothpaste</a>
-                            <a href="https://doterra.com/US/en/p/onguard-foaming-hand-wash-with-2-dispensers">doTERRA On Guard&reg; Hand Wash with 2 dispensers</a> and lots more.
+                            <a href="https://doterra.com/US/en/p/doterra-serenity-oil">doTERRA Serenity&reg; and lots more</a>,
                             <br>
                             Wholesale: $550.00,
                             PV: 400
@@ -241,17 +202,16 @@
               </article>
               <!-- ITEM -->
               <article class="portfolio-item pf-branding-design pf-web-design">
-                <div class="portfolio-image"> <a href="#."> <img alt="Oil Sharing Kit" src="images/cleanse-kit.png"> </a> </div>
+                <div class="portfolio-image"> <a href="#"> <img alt="Oil Sharing Kit" src="images/oil-sharing.png"> </a> </div>
                 <div class="portfolio-overlay">
                   <div class="position-center-center">
                     <h3><a href="https://doterra.com/US/en/p/enrollment-kits-oil-sharing-2016-2017" target="_blank">Oil Sharing Kit</a></h3>
                     <span class="margin-top-25">
-                        <p> New Wellness Advocates who enroll with an Oil Sharing Kit (700 PV) and have a 100 PV Loyalty Rewards order the following month* will receive 100 loyalty points and start loyalty point accrual at 15 percent.
+                        <p> New Wellness Advocates who enroll with an Oil Sharing Kit (700 PV) and have a 100 PV Loyalty Rewards order the following month* will receive 100 loyalty points and start loyalty point accrual at 15%.
                             <br>
                             Wholesale: $800.00,
                             PV: 700,
                             Savings: $253.00
-                            <br>
                             <br>
                             Click <a href="https://www.mydoterra.com/michellecannon88/#/" target="_blank">here</a> and on the Shop tab to learn about what is included.
                         </p>
@@ -335,6 +295,13 @@ export default {
         color: white;
         font-size: 11px;
         line-height: 18px;
+    }
+    .starter-kits-wrapper .portfolio-overlay {
+      letter-spacing: normal;
+      overflow: auto;
+    }
+    .starter-kits-wrapper .portfolio-overlay h3 {
+      margin-bottom: 0px;
     }
     .youtube-wrapper {
         text-align: center;
