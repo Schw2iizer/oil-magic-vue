@@ -437,6 +437,26 @@ export default {
     @media only screen and (max-device-width: 415px) {
       .platinum-leaders ul {
         display: flex;
+        overflow: scroll;
       }
+      .gold-leaders ul {
+        display: flex;
+        overflow: scroll;
+      }
+      .silver-leaders ul {
+        display: flex;
+        overflow: scroll;
+      }
+      .premier-leaders ul {
+        display: flex;
+        overflow: scroll;
+      }
+      .premier-leaders .margin-top-50 {
+        margin-top: 0px !important;
+      }
+      .silver-leaders .margin-top-50 {
+        margin-top: 0px !important;
+      }
+
     }
 </style>

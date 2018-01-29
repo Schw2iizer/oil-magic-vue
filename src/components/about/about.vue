@@ -27,7 +27,7 @@
                   <p>We were honored to be spotlighted by Doterra in their leadership magazine. You can read about it <a href="https://doterra.com/US/en/brochures-magazines-essential-leadership-21-brady-michelle-cannon" target="_blank"><i>here</i>.</a></p>
               </div>
                 <div class="col-md-5 my-family">
-                    <img  class="img-responsive" src="images/IMG_3200_1-min.jpg" alt="my family"/>
+                    <img class="img-responsive" src="images/IMG_3200_1-min.jpg" alt="my family"/>
                 </div>
               </div>
             </div>
@@ -47,6 +47,10 @@ export default {
 }
 </script>
 
-<style lang="css">
-
+<style lang="css" scoped>
+  @media only screen and (max-device-width: 415px) {
+    .col-md-5.my-family {
+      margin-bottom: 30px;
+    }
+  }
 </style>

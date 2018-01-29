@@ -48,4 +48,9 @@ export default {
     .favorite-product-wrapper .sub-banner {
         min-height: 660px;
     }
+    @media only screen and (max-device-width: 415px) {
+      .favorite-product-wrapper .sub-banner {
+        min-height: 525px;
+      }
+    }
 </style>

@@ -9,7 +9,7 @@
             </div>
           </section>
 
-          <section class="padding-top-40 padding-bottom-40">
+          <section class="padding-top-40 padding-bottom-20">
             <div class="container">
               <div class="relative">
                 <div class="heading-block no-margin-bottom">
@@ -36,7 +36,6 @@
                      <span>Doterra's<a href="https://www.youtube.com/user/doTERRAcorp" target="_blank">Youtube Channel</a> is amazing and full of educational and inspiring content!</span>
                   </h5>
                 </div>
-                <hr>
               </div>
             </div>
           </section>
