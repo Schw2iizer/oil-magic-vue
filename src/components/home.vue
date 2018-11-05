@@ -13,6 +13,8 @@
                 <div class="heading-block style-4 text-left margin-bottom-10 width-100 align-center">
                   <h4 class="sky-blue-font">Welcome to my website! </h4>
                   <h4 class="sky-blue-font">Be sure to follow my daily updates on <a href="https://www.facebook.com/oilmagicbymichelle" target="_blank">Facebook</a> and <a href="https://www.instagram.com/oilmagicbymichelle" target="_blank">Instagram!</a></h4>
+                  <h4 class="sky-blue-font">Sign up for my monthly newsletter <a href="mailto:michellecannon88@gmail.com?subject=Monthly Newsletter&body=Please sign me up!">here.</a></h4>
+
                 </div>
               </div>
             </section>
