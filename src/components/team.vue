@@ -11,6 +11,27 @@
         <section class="team style-6 padding-bottom-40 padding-top-20">
         <div class="container">
           <div class="heading-block style-6 text-center">
+            <img class="margin-top-20 margin-bottom-10" src="images/crown.png" alt="" > <span>BLUE DIAMOND LEADERS - Creators of Oil Magic by Michelle</span>
+          </div>
+         <div class="platinum-leaders">
+             <ul class="">
+               <li class="col-md-3">
+                 <div class="team-image">
+                     <div class="profile">
+                        <img class="img-responsive" src="images/michelle_cannon.png" alt="Michelle & Brady Cannon">
+                     </div>
+                   <ul class="social-icons text-center">
+                     <li><a href="https://www.instagram.com/oilmagicbymichelle/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                     <li><a href="mailto:michellecannon88@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                   </ul>
+                   <div class="member-detail">
+                     <h6 class="cannon-profile">Michelle & Brady Cannon</h6>
+                     <span class="font-crimson font-italic">Blue Diamond Leaders from Missouri</span></div>
+                 </div>
+               </li>
+             </ul>
+         </div>
+          <div class="heading-block style-6 text-center">
             <img class="margin-top-20 margin-bottom-10" src="images/crown.png" alt="" > <span>MY DIAMOND LEADERS</span>
           </div>
          <div class="platinum-leaders">
@@ -52,6 +73,20 @@
                      <span class="font-crimson font-italic">Platinum Leader from Arizona</span> </div>
                  </div>
                </li>
+               <li class="col-md-3">
+                 <div class="team-image">
+                     <div class="profile">
+                         <img class="img-responsive" src="images/nissa_moreno.png" alt="Nissa Moreno">
+                     </div>
+                   <ul class="social-icons text-center">
+                       <li><a href="tel:7148784188 "><i class="fa fa-phone"></i></a></li>
+                       <li><a href="mailto:Nissa@SipOfHauteTea.com "><i class="fa fa-envelope"></i></a></li>
+                   </ul>
+                   <div class="member-detail">
+                     <h6>Nissa & Gil Moreno</h6>
+                     <span class="font-crimson font-italic">Platinum Leaders from California</span> </div>
+                 </div>
+               </li>
              </ul>
          </div>
           <div class="heading-block style-6 text-center">
@@ -91,15 +126,16 @@
              <li class="col-md-3">
                <div class="team-image">
                    <div class="profile">
-                       <img class="img-responsive" src="images/nissa_moreno.png" alt="Nissa Moreno">
+                       <img class="img-responsive" src="images/christine_ceperano.png" alt="Christy Ceperano">
                    </div>
                  <ul class="social-icons text-center">
-                     <li><a href="tel:7148784188 "><i class="fa fa-phone"></i></a></li>
-                     <li><a href="mailto:Nissa@SipOfHauteTea.com "><i class="fa fa-envelope"></i></a></li>
+                   <li><a href="https://www.instagram.com/cepoils" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                   <li><a href="tel:7865479888"><i class="fa fa-phone"></i></a></li>
+                   <li><a href="mailto:Essentiallyccep28@gmail.com"><i class="fa fa-envelope"></i></a></li>
                  </ul>
                  <div class="member-detail">
-                   <h6>Nissa Moreno</h6>
-                   <span class="font-crimson font-italic">Gold Leader from California</span> </div>
+                   <h6>Christy Ceperano</h6>
+                   <span class="font-crimson font-italic">Gold Leader from Florida</span> </div>
                </div>
              </li>
            </ul>
@@ -155,21 +191,6 @@
                   </div>
                 </li>
                 <li class="col-md-3">
-                  <div class="team-image">
-                      <div class="profile">
-                          <img class="img-responsive" src="images/christine_ceperano.png" alt="Christy Ceperano">
-                      </div>
-                    <ul class="social-icons text-center">
-                      <li><a href="https://www.instagram.com/cepoils" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                      <li><a href="tel:7865479888"><i class="fa fa-phone"></i></a></li>
-                      <li><a href="mailto:Essentiallyccep28@gmail.com"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                    <div class="member-detail">
-                      <h6>Christy Ceperano</h6>
-                      <span class="font-crimson font-italic">Silver Leader from Florida</span> </div>
-                  </div>
-                </li>
-                <li class="col-md-3 margin-top-50">
                   <div class="team-image">
                       <div class="profile">
                           <img class="img-responsive" src="images/cassidy_mullis.png" alt="Cassidy Mullis">
@@ -237,6 +258,76 @@
                       <span class="font-crimson font-italic">Silver Leader from Utah</span> </div>
                   </div>
                 </li>
+                <li class="col-md-3 margin-top-50">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/lisa_hill.JPG" alt="Lisa Hill">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="https://www.facebook.com/TeamOILTRIBE/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                      <li><a href="https://www.instagram.com/teamoiltribe/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                      <li><a href="tel:5623916104"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="mailto:TeamOilTribe@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Lisa Hill</h6>
+                      <span class="font-crimson font-italic">Silver Leader from California</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3 margin-top-50">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/kris_alana.jpeg" alt="Kris Alana">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="mailto:kalana78@att.net"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Kris Alana</h6>
+                      <span class="font-crimson font-italic">Silver Leader from California</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3 margin-top-50">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/alanna.jpeg" alt="Alanna Dillon">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="https://www.instagram.com/practicalmagicessentials" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                      <li><a href="tel:9492918016"><i class="fa fa-phone"></i></a></li>
+                      <li><a href="mailto:practicalmagicessentials@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Alanna Dillon</h6>
+                      <span class="font-crimson font-italic">Silver Leader from California</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3 margin-top-50">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/kelley_williams.png" alt="Kelley Williams">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="mailto:woodlands_kelley@yahoo.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Kelley Williams</h6>
+                      <span class="font-crimson font-italic">Silver Leader from Texas</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3 margin-top-50">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/sierra_thompson.png" alt="Sierra Thompson">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="mailto:essentiallylivingbysierra@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Sierra Thompson</h6>
+                      <span class="font-crimson font-italic">Silver Leader from California</span> </div>
+                  </div>
+                </li>
               </ul>
           </div>
           <div class="premier-leaders">
@@ -290,42 +381,6 @@
                 <li class="col-md-3">
                   <div class="team-image">
                       <div class="profile">
-                          <img class="img-responsive" src="images/lisa_hill.JPG" alt="Lisa Hill">
-                      </div>
-                    <ul class="social-icons text-center">
-                      <li><a href="https://www.facebook.com/TeamOILTRIBE/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                      <li><a href="https://www.instagram.com/teamoiltribe/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                      <li><a href="tel:5623916104"><i class="fa fa-phone"></i></a></li>
-                      <li><a href="mailto:TeamOilTribe@gmail.com"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                    <div class="member-detail">
-                      <h6>Lisa Hill</h6>
-                      <span class="font-crimson font-italic">Premiere Leader from California</span> </div>
-                  </div>
-                </li>
-              </ul>
-          </div>
-          <div class="premier-leaders">
-              <div class="heading-block style-6 text-center"></div>
-              <ul class="row center">
-                <li class="col-md-3">
-                  <div class="team-image">
-                      <div class="profile">
-                          <img class="img-responsive" src="images/alanna.jpeg" alt="Alanna Dillon">
-                      </div>
-                    <ul class="social-icons text-center">
-                      <li><a href="https://www.instagram.com/practicalmagicessentials" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                      <li><a href="tel:9492918016"><i class="fa fa-phone"></i></a></li>
-                      <li><a href="mailto:practicalmagicessentials@gmail.com"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                    <div class="member-detail">
-                      <h6>Alanna Dillon</h6>
-                      <span class="font-crimson font-italic">Premiere Leader from California</span> </div>
-                  </div>
-                </li>
-                <li class="col-md-3">
-                  <div class="team-image">
-                      <div class="profile">
                           <img class="img-responsive" src="images/kaycee_bassett.jpg" alt="Kaycee Bassett">
                       </div>
                     <ul class="social-icons text-center">
@@ -338,6 +393,11 @@
                       <span class="font-crimson font-italic">Premiere Leader from Utah</span> </div>
                   </div>
                 </li>
+              </ul>
+          </div>
+          <div class="premier-leaders">
+              <div class="heading-block style-6 text-center"></div>
+              <ul class="row center">
                 <li class="col-md-3">
                   <div class="team-image">
                       <div class="profile">
@@ -354,32 +414,6 @@
                 <li class="col-md-3">
                   <div class="team-image">
                       <div class="profile">
-                          <img class="img-responsive" src="images/kris_alana.jpeg" alt="Kris Alana">
-                      </div>
-                    <ul class="social-icons text-center">
-                      <li><a href="mailto:kalana78@att.net"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                    <div class="member-detail">
-                      <h6>Kris Alana</h6>
-                      <span class="font-crimson font-italic">Premiere Leader from California</span> </div>
-                  </div>
-                </li>
-                <li class="col-md-3 margin-top-50">
-                  <div class="team-image">
-                      <div class="profile">
-                          <img class="img-responsive" src="images/kelley_williams.png" alt="Kelley Williams">
-                      </div>
-                    <ul class="social-icons text-center">
-                      <li><a href="mailto:woodlands_kelley@yahoo.com"><i class="fa fa-envelope"></i></a></li>
-                    </ul>
-                    <div class="member-detail">
-                      <h6>Kelley Williams</h6>
-                      <span class="font-crimson font-italic">Premiere Leader from Texas</span> </div>
-                  </div>
-                </li>
-                <li class="col-md-3 margin-top-50">
-                  <div class="team-image">
-                      <div class="profile">
                           <img class="img-responsive" src="images/jeni_nelson.png" alt="Jeni Nelson">
                       </div>
                     <ul class="social-icons text-center">
@@ -388,6 +422,85 @@
                     <div class="member-detail">
                       <h6>Jeni Nelson</h6>
                       <span class="font-crimson font-italic">Premiere Leader from Oregon</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/jen_martinez.png" alt="Jen Martinez">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="mailto:Jenam2722@yahoo.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Jen Martinez</h6>
+                      <span class="font-crimson font-italic">Premiere Leader from Texas</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/karie_brickley.png" alt="Karie Brickley">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="mailto:kariebrickley@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Karie Brickley</h6>
+                      <span class="font-crimson font-italic">Premiere Leader from California</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3 margin-top-50">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/carrie_franklin.png" alt="Carrie Franklin">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="mailto:828Essentials@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6>Carrie Franklin</h6>
+                      <span class="font-crimson font-italic">Premiere Leader from Florida</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3 margin-top-50">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/andrea_durham.png" alt="Andrea Durham">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="mailto:annie.durham@icloud.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6> Andrea Durham</h6>
+                      <span class="font-crimson font-italic">Premiere Leader from Washington</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3 margin-top-50">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/amanda_maxwell.png" alt="Amanda Maxwell">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="mailto:siriusconfections@yahoo.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6> Amanda Maxwell</h6>
+                      <span class="font-crimson font-italic">Premiere Leader from California</span> </div>
+                  </div>
+                </li>
+                <li class="col-md-3 margin-top-50">
+                  <div class="team-image">
+                      <div class="profile">
+                          <img class="img-responsive" src="images/michelle_vela.png" alt="Michelle Vela Maria">
+                      </div>
+                    <ul class="social-icons text-center">
+                      <li><a href="https://www.instagram.com/liveloveoils4u" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                      <li><a href="mailto:liveloveoils4u@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                    <div class="member-detail">
+                      <h6> Amanda Maxwell</h6>
+                      <span class="font-crimson font-italic">Premiere Leader from New York</span> </div>
                   </div>
                 </li>
               </ul>
@@ -432,6 +545,10 @@ export default {
     .team-wrapper .heading-block {
       margin-top: 20px;
       margin-bottom: 20px;
+    }
+
+    h6.cannon-profile {
+      margin-bottom: 0px !important;
     }
 
     @media only screen and (max-device-width: 415px) {

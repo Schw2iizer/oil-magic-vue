@@ -64,9 +64,7 @@
                 </li>
                 <li><a>Get Started</a>
                   <ul class="dropdown">
-                    <li><router-link :to="{path: 'starter-kits'}"> Starter Kit Options</router-link></li>
-                    <li><router-link :to="{path: 'how-to-order'}" replace> How to Order</router-link></li>
-                    <li><router-link :to="{path: 'loyalty-rewards'}">Loyalty Rewards Program</router-link></li>
+                    <li><a href="https://www.mydoterra.com/Application/index.cfm?EnrollerID=1266154&Theme=DefaultTheme&ReturnURL=www.mydoterra.com/michellecannon88&LNG=en_dot&iact=1" target="_blank"> Get Started with Me</a></li>
                   </ul>
                 </li>
                 <!-- <li><router-link :to="{ path: 'contact' }">Contact</router-link></li> -->
