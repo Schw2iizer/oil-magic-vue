@@ -499,7 +499,7 @@
                       <li><a href="mailto:liveloveoils4u@gmail.com"><i class="fa fa-envelope"></i></a></li>
                     </ul>
                     <div class="member-detail">
-                      <h6> Amanda Maxwell</h6>
+                      <h6> Michelle Vela Maria</h6>
                       <span class="font-crimson font-italic">Premiere Leader from New York</span> </div>
                   </div>
                 </li>
