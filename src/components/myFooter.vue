@@ -79,7 +79,7 @@ export default {
     methods: {
         getInstagram: function () {
             var $this = this
-            this.$jsonp('https://api.instagram.com/v1/users/1558666427/media/recent/?access_token=1558666427.b409cca.dab9df328d5240c697626c81d3be6817&count=10&callback=?%27')
+            this.$jsonp('https://api.instagram.com/v1/users/1558666427/media/recent/?access_token=1558666427.1677ed0.ccfbaa5a60304eea99b6f69d31b913b5&count=10&callback=?%27')
             .then(function (response) {
                 $this.instagramImages = response.data
             })
