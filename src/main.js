@@ -24,6 +24,7 @@ import OrderOils from './components/order-oils.vue'
 import LoyaltyRewards from './components/loyalty-rewards.vue'
 import NotFound from './components/not-found.vue'
 import StarterKits from './components/starter-kits.vue'
+import GetStarted from './components/get-started.vue'
 
 Vue.use(VueResource)
 Vue.use(VueJsonp, 8000)
@@ -45,6 +46,7 @@ const routes = [
   {path: '/how-to-order', component: OrderOils},
   {path: '/loyalty-rewards', component: LoyaltyRewards},
   {path: '/starter-kits', component: StarterKits},
+  {path: '/get-started', component: GetStarted},
   {path: '*', component: NotFound}
 ]
 
@@ -71,6 +73,7 @@ new Vue({ // eslint-disable-line no-new
     OrderOils,
     LoyaltyRewards,
     StarterKits,
+    GetStarted,
     NotFound
   }
 })

@@ -16,6 +16,11 @@
                   <div class="heading-block style-4 text-left margin-bottom-10 width-100">
                     <h4>Here is Our Story..</h4>
                   </div>
+                  <p>Meet us and a little about our journey</p>
+                  <div class="padding-top-20">
+                   <iframe src="https://player.vimeo.com/video/380097337" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                  </div>
+                  <hr>
                   <p>I had the opportunity to speak as a guest speaker at Doterra's Convention in September, 2016. On stage in front of over 30,000 Wellness Advocates, I poured out my heart and love of these oils, company and business opportunity! I felt honored and blessed to share with all of Doterra and the Executives my story, and why I do what I do! Take a watch!!</p>
                   <div class="padding-top-20">
                       <iframe width="600" height="400" src="https://www.youtube.com/embed/JmysMsQTQ-I" frameborder="0" allowfullscreen></iframe>
