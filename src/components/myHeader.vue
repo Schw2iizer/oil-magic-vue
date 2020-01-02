@@ -65,9 +65,8 @@
                 <li><a>Get Started</a>
                   <ul class="dropdown">
                     <li><router-link :to="{ path: 'get-started'}">Get Started with Me</router-link></li>
-                    <li><a href="https://www.mydoterra.com/Application/index.cfm?EnrollerID=1266154&Theme=DefaultTheme&ReturnURL=www.mydoterra.com/michellecannon88&LNG=en_dot&iact=1" target="_blank"> Get Started with Me</a></li>
                   </ul>
-                  
+
                 </li>
                 <!-- <li><router-link :to="{ path: 'contact' }">Contact</router-link></li> -->
                 <li><router-link :to="{path: 'team'}">Team</router-link></li>
