@@ -50,7 +50,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-6 copyright">
-                    <p>&copy; 2018 Oil Magic by Michelle</p>
+                    <p>&copy; {{this.currentYear}} Oil Magic by Michelle</p>
                   </div>
                   <div class="col-md-6 social-links">
                     <ul class="right">
@@ -71,6 +71,7 @@ export default {
     data() {
         return {
             instagramImages: [],
+            currentYear: new Date().getFullYear()
         }
     },
     mounted: function (){
