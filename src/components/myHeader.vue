@@ -66,11 +66,11 @@
                   <ul class="dropdown">
                     <li><router-link :to="{ path: 'get-started'}">Get Started with Me</router-link></li>
                   </ul>
-
                 </li>
                 <!-- <li><router-link :to="{ path: 'contact' }">Contact</router-link></li> -->
                 <li><router-link :to="{path: 'team'}">Team</router-link></li>
-                <li @click="getPassword()" class="pointer copy-link-styles">Members Login</li>
+                <li><a href="https://oilmagicbymichelle.blogspot.com/" target="_blank" rel="noreferrer">Blog</a></li>
+                <li @click="getPassword()" class="pointer copy-link-styles">Members</li>
               </ul>
             </nav>
           </div>
