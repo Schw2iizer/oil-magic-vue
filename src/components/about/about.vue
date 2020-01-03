@@ -1,7 +1,7 @@
 <template lang="html">
     <div class="about-wrapper">
         <div id="content">
-          <section class="sub-banner" style="background:url(images/new_family_pic_compressed.jpg) no-repeat center; background-size: 100% auto">
+          <section class="sub-banner" style="background:url(images/michelle_brady2.jpg) no-repeat center; background-size: 100% auto">
             <div class="container">
               <div class="position-center-center">
                 <h2>HELLO, I’M MICHELLE CANNON</h2>
@@ -32,7 +32,7 @@
                   <p>We were honored to be spotlighted by Doterra in their leadership magazine. You can read about it <a href="https://doterra.com/US/en/brochures-magazines-essential-leadership-21-brady-michelle-cannon" target="_blank"><i>here</i>.</a></p>
               </div>
                 <div class="col-md-5 my-family">
-                    <img class="img-responsive" src="images/IMG_3200_1-min.jpg" alt="my family"/>
+                    <img class="img-responsive" src="images/michelle_brady3.jpg" alt="my family"/>
                 </div>
               </div>
             </div>
