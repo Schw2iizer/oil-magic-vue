@@ -23,7 +23,7 @@
                 </div>
                 <div class="heading-block no-margin-bottom">
                   <h5 class="margin-bottom-20 margin-top-0">
-                     <span>Where I purchase all my favorite essential oil books, and accessories:<a href="http://www.oillife.com" target="_blank"> Oil Life</a></span>
+                     <span>Where I purchase all my favorite essential oil books, and accessories:<a href="http://www.oillife.com" target="_blank"> Oil Life</a>. Use discount code "OMMC5" to save a little on their site.</span>
                   </h5>
                 </div>
                 <div class="heading-block no-margin-bottom">
@@ -34,6 +34,26 @@
                 <div class="heading-block no-margin-bottom">
                   <h5 class="margin-bottom-20 margin-top-0">
                      <span>Doterra's<a href="https://www.youtube.com/user/doTERRAcorp" target="_blank">Youtube Channel</a> is amazing and full of educational and inspiring content!</span>
+                  </h5>
+                </div>
+                <div class="heading-block no-margin-bottom">
+                  <h5 class="margin-bottom-20 margin-top-0">
+                     <span><a href="https://www.facebook.com/doterra/?ref=br_rs" target="_blank">Doterra's Education Facebook page</a></span>
+                  </h5>
+                </div>
+                <div class="heading-block no-margin-bottom">
+                  <h5 class="margin-bottom-20 margin-top-0">
+                     <span><a href="https://www.facebook.com/doterrabusiness/" target="_blank">Doterra's Business facebook page</a></span>
+                  </h5>
+                </div>
+                <div class="heading-block no-margin-bottom">
+                  <h5 class="margin-bottom-20 margin-top-0">
+                     <span><a href="https://www.doterra.com/US/en/blog-science" target="_blank">Doterra's Science Blog</a></span>
+                  </h5>
+                </div>
+                <div class="heading-block no-margin-bottom">
+                  <h5 class="margin-bottom-20 margin-top-0">
+                     <span><a href="https://www.instagram.com/doterra/" target="_blank">Doterra's Instagram</a></span>
                   </h5>
                 </div>
               </div>
