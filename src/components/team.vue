@@ -24,21 +24,21 @@
       </section>
       <hr>
         <section class="team style-6 padding-bottom-40 padding-top-20">
-          <div class="container">
-            <h3>Meet our Team</h3>
-            <div class="col-md-5 my-family">
+          <div class="container" style="text-align: center">
+            <span>Meet our Team</span>
+            <div class="col-md-6 my-family">
                 <img class="img-responsive" src="images/Optimized-oil_team.jpg" alt="team"/>
             </div>
-            <div class="col-md-5 my-family">
+            <div class="col-md-6 my-family">
                 <img class="img-responsive" src="images/Optimized-oil_team2.jpg" alt="team"/>
             </div>
-            <div class="col-md-5 my-family">
+            <div class="col-md-6 my-family">
                 <img class="img-responsive" src="images/Optimized-oil_team3.jpg" alt="team"/>
             </div>
-            <div class="col-md-5 my-family">
+            <div class="col-md-6 my-family">
                 <img class="img-responsive" src="images/Optimized-oil_team4.jpg" alt="team"/>
             </div>
-            <div class="col-md-5 my-family">
+            <div class="col-md-6 my-family">
                 <img class="img-responsive" src="images/Optimized-oil_team5.jpg" alt="team"/>
             </div>
           </div>

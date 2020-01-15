@@ -30,8 +30,8 @@
                     <h4>Here is Our Spotlight in Doterra's Leadership Magazine..</h4>
                   </div>
                   <p>We were honored to be spotlighted by Doterra in their leadership magazine.</p>
-                  <div class="col-md-6 my-family">
-                      <img class="img-responsive" src="images/Optimized-doterra_article.png" alt="article"/>
+                  <div class="col-md-12 my-family margin-bottom-20">
+                      <a href="images/Optimized-doterra_article.png"><img class="img-responsive" src="images/Optimized-doterra_article.png" alt="article"/></a>
                   </div>
               </div>
                 <div class="col-md-5 my-family">
