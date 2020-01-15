@@ -22,7 +22,7 @@
             </div>
           </section>
           <hr>
-          <section class="padding-top-40 padding-bottom-40 align-center">
+          <section class="padding-top-20 padding-bottom-40 align-center">
             <div class="container">
               <div class="relative">
                 <div class="heading-block no-margin-bottom">
