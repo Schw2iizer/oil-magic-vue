@@ -21,6 +21,7 @@
               </div>
             </div>
           </section>
+          <hr>
           <section class="padding-top-40 padding-bottom-40 align-center">
             <div class="container">
               <div class="relative">
