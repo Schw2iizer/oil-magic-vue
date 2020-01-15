@@ -28,6 +28,7 @@
                 <p>4. A community of amazing people who are all in this together as we strive for a better and healthier life!!
                 </p>
                 <h5>Click <a href="https://www.mydoterra.com/Application/index.cfm?EnrollerID=1266154&Theme=DefaultTheme&ReturnURL=www.mydoterra.com/michellecannon88&LNG=en_dot&iact=1" target="_blank" rel="noreferrer">here</a> to get started!</h5>
+                <h5>A BIG welcome from me to YOU!</h5>
               </div>
             </div>
           </section>
