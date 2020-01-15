@@ -29,7 +29,10 @@
                   <div class="heading-block style-4 text-left margin-bottom-10 width-100">
                     <h4>Here is Our Spotlight in Doterra's Leadership Magazine..</h4>
                   </div>
-                  <p>We were honored to be spotlighted by Doterra in their leadership magazine. You can read about it <a href="https://doterra.com/US/en/brochures-magazines-essential-leadership-21-brady-michelle-cannon" target="_blank"><i>here</i>.</a></p>
+                  <p>We were honored to be spotlighted by Doterra in their leadership magazine.</p>
+                  <div class="col-md-6 my-family">
+                      <img class="img-responsive" src="images/Optimized-doterra_article.png" alt="article"/>
+                  </div>
               </div>
                 <div class="col-md-5 my-family">
                     <img class="img-responsive" src="images/michelle_brady3.jpg" alt="my family"/>
