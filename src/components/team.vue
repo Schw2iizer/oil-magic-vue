@@ -8,7 +8,7 @@
             </div>
           </div>
         </section>
-        <section class="team style-6 padding-bottom-40 padding-top-20">
+        <section class="team style-6 padding-bottom-10 padding-top-10">
           <div class="container">
             <div class="heading-block style-12 text-center">
               <span>Blue Diamond Leaders and Creators of the Oil Magic Community</span>
