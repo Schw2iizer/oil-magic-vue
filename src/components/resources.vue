@@ -43,7 +43,7 @@
                 </div>
                 <div class="heading-block no-margin-bottom">
                   <h5 class="margin-bottom-20 margin-top-0">
-                     <span><a href="https://www.facebook.com/doterrabusiness/" target="_blank">Doterra's Business facebook page</a></span>
+                     <span><a href="https://www.facebook.com/doterrabusiness/" target="_blank">Doterra's Business Facebook page</a></span>
                   </h5>
                 </div>
                 <div class="heading-block no-margin-bottom">
