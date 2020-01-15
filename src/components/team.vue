@@ -24,8 +24,9 @@
       </section>
       <hr>
         <section class="team style-6 padding-bottom-40 padding-top-20">
-          <span style="text-align: center">Meet our Team</span>
-
+          <div class="heading-block">
+            <span style="text-align: center">Meet our Team</span>
+          </div>
           <div class="container" style="text-align: center">
             <div class="col-md-6 my-family">
                 <img class="img-responsive" src="images/Optimized-oil_team.jpg" alt="team"/>
