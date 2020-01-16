@@ -17,12 +17,12 @@
                 <p>dōTERRA is committed to providing the purest, most potent essential oils possible. dōTERRA employs a global network of farmers who know intimately the process of growing plants for essential oils. Every dōTERRA essential oil is put through the highest standard of rigorous and thorough testing and sets the bar for quality, purity, efficacy, and consistency. Experience the dōTERRA difference today.
                 </p>
                 <hr>
-                <h3 style="text-align: center;">Why Choose dōTERRA</h3>
+                <h3>Why Choose dōTERRA</h3>
                 <div class="padding-top-20 youtube-wrapper">
                    <iframe width="600" height="400" src="https://www.youtube.com/embed/o_M4XsYaOxM" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <hr>
-                <h3 style="text-align: center;">The dōTERRA Difference</h3>
+                <h3>The dōTERRA Difference</h3>
                 <div class="padding-top-20 youtube-wrapper">
                    <iframe width="600" height="400" src="https://www.youtube.com/embed/WsY-xGCZSng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
@@ -40,7 +40,10 @@ export default {
 
 <style lang="css">
     .why-doterra-wrapper h4 {
-        font-weight: 300;
+      font-weight: 300;
+    }
+    .why-doterra-wrapper h3 {
+      text-align: center;
     }
     .why-doterra-wrapper .sub-banner {
         min-height: 400px;
