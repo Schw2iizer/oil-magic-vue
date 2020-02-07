@@ -20,9 +20,6 @@
                   <div class="padding-top-10">
                    <iframe src="https://player.vimeo.com/video/380097337" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                   </div>
-                  <div class="col-md-4 my-family">
-                      <img class="img-responsive" src="images/michelle_brady3.jpg" alt="my family"/>
-                  </div>
                   <hr>
                   <p>I had the opportunity to speak as a guest speaker at Doterra's Convention in September, 2016. On stage in front of over 30,000 Wellness Advocates, I poured out my heart and love of these oils, company and business opportunity! I felt honored and blessed to share with all of Doterra and the Executives my story, and why I do what I do!</p>
                   <div class="col-md-6 my-family">
@@ -44,6 +41,9 @@
                   <p>We were honored to be spotlighted by Doterra in their leadership magazine.</p>
                   <div class="col-md-12 my-family margin-bottom-20">
                       <a href="images/Optimized-doterra_article.png"><img class="img-responsive" src="images/Optimized-doterra_article.png" alt="article"/></a>
+                  </div>
+                  <div class="col-md-5 my-family margin-bottom-20">
+                      <img class="img-responsive" src="images/michelle_brady3.jpg" alt="my family"/>
                   </div>
               </div>
               </div>
