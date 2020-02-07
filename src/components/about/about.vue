@@ -12,8 +12,8 @@
           <section class="padding-top-40">
             <div class="container">
               <div class="row">
-                <div class="col-md-8">
-                  <div class="heading-block style-4 text-left margin-bottom-10 width-100">
+                <div class="col-md-12">
+                  <div class="heading-block style-4 text-left width-100">
                     <h4>Here is Our Story..</h4>
                   </div>
                   <p>Meet us and a little about our journey</p>
