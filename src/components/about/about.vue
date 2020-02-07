@@ -22,27 +22,27 @@
                   </div>
                   <hr>
                   <p>I had the opportunity to speak as a guest speaker at Doterra's Convention in September, 2016. On stage in front of over 30,000 Wellness Advocates, I poured out my heart and love of these oils, company and business opportunity! I felt honored and blessed to share with all of Doterra and the Executives my story, and why I do what I do!</p>
-                  <hr>
                   <div class="col-md-6 my-family">
                       <img class="img-responsive" src="images/convention1.jpg" alt="convention one"/>
                   </div>
                   <div class="col-md-6 my-family">
                       <img class="img-responsive" src="images/Optimized-convention2.jpg" alt="convention two"/>
                   </div>
+                  <hr>
               </div>
               </div>
             </div>
             <div class="container">
               <div class="row">
                 <div class="col-md-12">
-                  <div class="heading-block style-4 text-left margin-bottom-10 width-100">
+                  <div class="heading-block style-4 text-left margin-bottom-10 width-100 margin-top-20">
                     <h4>Here is Our Spotlight in Doterra's Leadership Magazine..</h4>
                   </div>
                   <p>We were honored to be spotlighted by Doterra in their leadership magazine.</p>
                   <div class="col-md-12 my-family margin-bottom-20">
                       <a href="images/Optimized-doterra_article.png"><img class="img-responsive" src="images/Optimized-doterra_article.png" alt="article"/></a>
                   </div>
-                  <div class="col-md-5 my-family">
+                  <div class="col-md-5 my-family margin-bottom-20">
                       <img class="img-responsive" src="images/michelle_brady3.jpg" alt="my family"/>
                   </div>
               </div>
