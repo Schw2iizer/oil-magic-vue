@@ -43,6 +43,9 @@
             <div class="col-md-6 my-family">
                 <img class="img-responsive" src="images/Optimized-oil_team5.jpg" alt="team"/>
             </div>
+            <div class="col-md-6 my-family">
+                <img class="img-responsive" src="images/Optimized-sisters.jpg" alt="team"/>
+            </div>
           </div>
       </section>
     </div>
