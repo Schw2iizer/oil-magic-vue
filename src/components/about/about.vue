@@ -12,7 +12,7 @@
           <section class="padding-top-40">
             <div class="container">
               <div class="row">
-                <div class="col-md-8">
+                <div class="col-md-12">
                   <div class="heading-block style-4 text-left margin-bottom-10 width-100">
                     <h4>Here is Our Story..</h4>
                   </div>
@@ -29,17 +29,7 @@
                   <div class="col-md-6 my-family">
                       <img class="img-responsive" src="images/Optimized-convention2.jpg" alt="convention two"/>
                   </div>
-                  <div class="heading-block style-4 text-left margin-bottom-10 width-100">
-                    <h4>Here is Our Spotlight in Doterra's Leadership Magazine..</h4>
-                  </div>
-                  <p>We were honored to be spotlighted by Doterra in their leadership magazine.</p>
-                  <div class="col-md-12 my-family margin-bottom-20">
-                      <a href="images/Optimized-doterra_article.png"><img class="img-responsive" src="images/Optimized-doterra_article.png" alt="article"/></a>
-                  </div>
               </div>
-                <div class="col-md-5 my-family">
-                    <img class="img-responsive" src="images/michelle_brady3.jpg" alt="my family"/>
-                </div>
               </div>
             </div>
             <div class="container">
@@ -51,6 +41,9 @@
                   <p>We were honored to be spotlighted by Doterra in their leadership magazine.</p>
                   <div class="col-md-12 my-family margin-bottom-20">
                       <a href="images/Optimized-doterra_article.png"><img class="img-responsive" src="images/Optimized-doterra_article.png" alt="article"/></a>
+                  </div>
+                  <div class="col-md-5 my-family">
+                      <img class="img-responsive" src="images/michelle_brady3.jpg" alt="my family"/>
                   </div>
               </div>
               </div>
