@@ -267,12 +267,12 @@
                               </p>
                           </div>
                           <div class="images">
-                            <img src="images/ican_compressed.png" alt="ican_institute"/>
-                            <p>Deb Erickson has an amazing youtube feed FULL of info - Click <i><a href="https://www.youtube.com/user/DebEricksonICAN">HERE</a></i> to follow her feed, and pick something each day to listen too.</p>
+                            <a href="https://www.youtube.com/user/DebEricksonICAN" target="_blank"><img src="images/ican_compressed.png" alt="ican_institute"/></a>
+                            <p>Deb Erickson has an amazing youtube feed FULL of info - Click <i><a href="https://www.youtube.com/user/DebEricksonICAN" target="_blank">HERE</a></i> to follow her feed, and pick something each day to listen too.</p>
                           <div>
                           <div class="images">
-                            <img src="images/tiffany_peterson1.png" alt="tiffany_peterson"/>
-                            <p>Tiffany Peterson is another amazing mindset coach - Click <i><a href="https://www.youtube.com/user/lighthouseprinciples">HERE</a></i> to follow along with her as well.</p>
+                            <a href="https://www.youtube.com/user/lighthouseprinciples" target="_blank"><img src="images/tiffany_peterson1.png" alt="tiffany_peterson"/></a>
+                            <p>Tiffany Peterson is another amazing mindset coach - Click <i><a href="https://www.youtube.com/user/lighthouseprinciples" target="_blank">HERE</a></i> to follow along with her as well.</p>
                           <div>
                       </div>
                   </div>
