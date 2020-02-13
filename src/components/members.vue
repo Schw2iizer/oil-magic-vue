@@ -270,6 +270,10 @@
                             <img src="images/ican_compressed.png" alt="ican_institute"/>
                             <p>Deb Erickson has an amazing youtube feed FULL of info - Click <i><a href="https://www.youtube.com/user/DebEricksonICAN">HERE</a></i> to follow her feed, and pick something each day to listen too.</p>
                           <div>
+                          <div class="images">
+                            <img src="images/tiffany_peterson1.png" alt="tiffany_peterson"/>
+                            <p>Tiffany Peterson is another amazing mindset coach - Click <i><a href="https://www.youtube.com/user/lighthouseprinciples">HERE</a></i> to follow along with her as well.</p>
+                          <div>
                       </div>
                   </div>
                 <hr>
@@ -305,8 +309,9 @@ export default {
         margin-top: 20px;
     }
     .members-only-wrapper .images {
-      margin-bottom: 20px;
-      margin-top: 20px;
+      margin-bottom: 25px;
+      margin-top: 25px;
+      text-align: center;
     }
     .members-only-wrapper .images img {
         height: 120px;
