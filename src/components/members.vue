@@ -262,56 +262,14 @@
                       </div>
                       <div id="menu4" class="tab-pane fade">
                           <div class="margin-top-15">
-                              <p>Working on self-development is so important in this business! Below will be a few videos on self-development and also some amazing motivation and great advice from some amazing Doterra leaders! Also, it is so important we know how to work with our leaders and to create solid connections and lasting relationships! All these videos below are simply amazing!</p>
+                              <p>Working on self-development is key in becoming a successful entrepreneur.
+                                  If you are struggling with the mindset, or not, I want you to simply begin by watching a video clip or listening to your favorite mindset podcast each day. This is how I shifted from smaller ranks to the top ranks in Doterra. Before your dreams can come true, you have to train your mind to work through the entire journey of building a long lasting empire! I have seen leaders struggle throughout my journey, and the moment they shift into the mindset work, we begin to see results!
+                              </p>
                           </div>
-                          <div class="development youtube-wrapper">
-                              <h5>Overcoming your fears</h5>
-                              <div class="padding-top-5">
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/PPgNixDBgR8" frameborder="0" allowfullscreen></iframe>
-                              </div>
-                          </div>
-                          <div class="development youtube-wrapper">
-                              <h5>How to set goals that really work</h5>
-                              <div class="padding-top-5">
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/7PU7-OkLX9U" frameborder="0" allowfullscreen></iframe>
-                              </div>
-                          </div>
-                          <div class="development youtube-wrapper">
-                              <h5>Develop a positive attitude</h5>
-                              <div class="padding-top-5">
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/63amEeSAIDk" frameborder="0" allowfullscreen></iframe>
-                              </div>
-                          </div>
-                          <div class="development youtube-wrapper">
-                              <h5>Nurturing relationships</h5>
-                              <div class="padding-top-5">
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/BrAoirSAgrk?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
-                              </div>
-                          </div>
-                          <div class="development youtube-wrapper">
-                              <h5>Joy in the Journey</h5>
-                              <div class="padding-top-5">
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/It4j7LTq8MY?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
-                              </div>
-                          </div>
-                          <div class="development youtube-wrapper">
-                              <h5>Vision and time freedom</h5>
-                              <div class="padding-top-5">
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/HIzqZbzxBOM?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
-                              </div>
-                          </div>
-                          <div class="development youtube-wrapper">
-                              <h5>Belief is the fuel to your business</h5>
-                              <div class="padding-top-5">
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/ZVQWMDJtgwY?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
-                              </div>
-                          </div>
-                          <div class="development youtube-wrapper">
-                              <h5>Are you powered up?</h5>
-                              <div class="padding-top-5">
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/x0kW2PUUYTE?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
-                              </div>
-                          </div>
+                          <div class="images">
+                            <img src="images/ican_compressed.png" alt="ican_institute"/>
+                            <p>Deb Erickson has an amazing youtube feed FULL of info - Click <i><a href="https://www.youtube.com/user/DebEricksonICAN">HERE</a></i> to follow her feed, and pick something each day to listen too.</p>
+                          <div>
                       </div>
                   </div>
                 <hr>
@@ -345,5 +303,14 @@ export default {
     .members-only-wrapper .youtube-wrapper {
         text-align: center;
         margin-top: 20px;
+    }
+    .members-only-wrapper .images {
+      margin-bottom: 20px;
+      margin-top: 20px;
+    }
+    .members-only-wrapper .images img {
+        height: 120px;
+        width: auto;
+        margin-bottom: 5px;
     }
 </style>
