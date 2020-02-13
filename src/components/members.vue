@@ -22,8 +22,11 @@
                   <div class="tab-content">
                       <div id="menu1" class="tab-pane fade in active">
                           <div class="margin-top-15">
-                              <p>Welcome to Team Oil Magic! This tab will help you learn and get educated on all the products Doterra has to offer and how making a natural lifestyle can be easy, simply by education! Be sure to follow and like my <i><a href="https://www.facebook.com/oilmagicbymichelle" target="_blank">Facebook</a></i> page to watch weekly live classes that me and my top leaders teach, and also follow Team Oil Magic on Facebook as well for our private team page! I will approve you once you have added yourself! Explore this tab and learn all about these amazing products so you can dive in and start Living the Doterra lifestyle! Again, WELCOME to my amazing team!!! We are so blessed to have you!
-                              - Michelle
+                              <p>Welcome to Oil Magic community! This tab will help you learn and get educated on all the products Doterra has to offer and how making a natural lifestyle can be easy, simply by education! Be sure to follow our private Facebook page to watch weekly live classes that me and my top leaders teach. Click <i><a href="https://www.facebook.com/oilmagicbymichelle" target="_blank">HERE</a></i>.
+                              </p>
+                              <p>Also, don't forget to stay up to date with my Instagram feed as well! I educate on that page daily. Click    <i><a href="https://www.instagram.com/oilmagicbymichelle/?hl=en" target="_blank">HERE</a></i>.
+                              </p>
+                              <p>I will approve you once you have added yourself! Explore this tab and learn all about these amazing products so you can dive in and start Living the Doterra lifestyle! Again, WELCOME to our amazing oily community!!! We are so blessed to have you! - Michelle
                               </p>
                           </div>
                           <div class="safety">
@@ -109,9 +112,15 @@
                               </div>
                           </div>
                           <div class="welcome youtube-wrapper">
-                              <h5>LRP Program and Why you must participate!</h5>
+                              <h5>Oil safety for kids</h5>
                               <div class="padding-top-5">
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/QqV1tV3WK60?list=PLhVNYn5OGN22cjwEkp37x_MRgQD25a0a4" frameborder="0" allowfullscreen></iframe>
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/vEzQy1LuezU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="welcome youtube-wrapper">
+                              <h5>All about our vitamins</h5>
+                              <div class="padding-top-5">
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/tng0XiB0rRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                               </div>
                           </div>
                       </div>
@@ -130,17 +139,9 @@
                               </div>
                           </div>
                           <div class="sharing youtube-wrapper">
-                              <h5>Can Essential Oils be used during pregnancy? Yes they can! Dr. Hill has a great explanation!</h5>
-                              <div class="padding-top-5">
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/rRBJ8WDDz_I?list=PLp3VbOdUkkm3rM7lw5Dh2PZpNZ_uB5TKw" frameborder="0" allowfullscreen></iframe>
-                              </div>
+                              <h5>Top Ten ways to share essential oils with others! Click <i><a href="https://www.doterra.com/US/en/blog/building-top-10-ways-to-share-essential-oils" target="_blank">HERE</a></i></h5>
                           </div>
-                          <div class="sharing youtube-wrapper">
-                              <h5>Many people may ask what safety tips they need to know before using these oils. Dr. Hill has great safety tips!</h5>
-                              <div class="padding-top-5">
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/oImC1aBR-Xs?list=PLp3VbOdUkkm3rM7lw5Dh2PZpNZ_uB5TKw" frameborder="0" allowfullscreen></iframe>
-                              </div>
-                          </div>
+
                           <div class="sharing margin-top-15">
                               <h5>Cost and Quality</h5>
                               <p>When sharing these oils, I know the question will be asked about the cost. Why are these oils more expensive than what we can purchase at a wholefood market, or a grocery store?</p>
