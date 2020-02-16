@@ -148,7 +148,7 @@
                               <h5>Doterra Blog</h5>
                               <p>Follow along 
                                   <i>
-                                      <a href="https://www.doterra.com/CA/en/flyers-loyalty-rewards-program" target="_blank">here</a>
+                                      <a href="https://www.doterra.com/US/en/blog/healthy-living" target="_blank">here</a>
                                   </i>
                                   with Doterra Blog for fun DIY's and more on oil education. 
                               </p>
