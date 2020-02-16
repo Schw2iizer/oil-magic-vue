@@ -22,7 +22,7 @@
                   <div class="tab-content">
                       <div id="menu1" class="tab-pane fade in active">
                           <div class="margin-top-15">
-                              <p>Welcome to Oil Magic community! This tab will help you learn and get educated on all the products Doterra has to offer and how making a natural lifestyle can be easy, simply by education! Be sure to follow our private Facebook page to watch weekly live classes that me and my top leaders teach. Click <i><a href="https://www.facebook.com/oilmagicbymichelle" target="_blank">HERE</a></i>.
+                              <p>Welcome to Oil Magic community! This tab will help you learn and get educated on all the products Doterra has to offer and how making a natural lifestyle can be easy, simply by education! Be sure to follow our private Facebook page to watch weekly live classes that me and my top leaders teach. Click <i><a href="https://www.facebook.com/groups/531448217013094/?ref=share" target="_blank">HERE</a></i>.
                               </p>
                               <p>Also, don't forget to stay up to date with my Instagram feed as well! I educate on that page daily. Click    <i><a href="https://www.instagram.com/oilmagicbymichelle/?hl=en" target="_blank">HERE</a></i>.
                               </p>
@@ -122,6 +122,36 @@
                               <div class="padding-top-5">
                                  <iframe width="700" height="400" src="https://www.youtube.com/embed/tng0XiB0rRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                               </div>
+                          </div>
+                          <div class="welcome youtube-wrapper">
+                              <h5>Oily safety during pregnancy</h5>
+                              <div class="padding-top-5">
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/rRBJ8WDDz_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="welcome youtube-wrapper">
+                              <h5>Essential oil safety tips with Dr. Hill</h5>
+                              <div class="padding-top-5">
+                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/oImC1aBR-Xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                              </div>
+                          </div>
+                          <div class="welcome youtube-wrapper">
+                              <h5>Loyalty Rewards</h5>
+                              <p>Click 
+                                  <i>
+                                      <a href="https://www.doterra.com/CA/en/flyers-loyalty-rewards-program" target="_blank">HERE</a>
+                                  </i>
+                                  if you would like to learn how you can make the most of your membership.
+                              </p>
+                          </div>
+                          <div class="welcome youtube-wrapper">
+                              <h5>Doterra Blog</h5>
+                              <p>Follow along 
+                                  <i>
+                                      <a href="https://www.doterra.com/CA/en/flyers-loyalty-rewards-program" target="_blank">here</a>
+                                  </i>
+                                  with Doterra Blog for fun DIY's and more on oil education. 
+                              </p>
                           </div>
                       </div>
                       <div id="menu2" class="tab-pane fade">
