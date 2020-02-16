@@ -204,10 +204,7 @@
                                     Can't WAIT to get you started on your journey!
                                 </p>
                                 <p>
-                                    Michelle Cannon
-                                </p>
-                                <p>
-                                    Blue Diamond Leader and Essential Oil Educator 
+                                    - Michelle Cannon, Blue Diamond Leader and Essential Oil Educator 
                                 </p>
                               </div>
                           </div>
