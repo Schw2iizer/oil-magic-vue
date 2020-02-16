@@ -183,50 +183,13 @@
                       </div>
                       <div id="menu3" class="tab-pane fade">
                           <div class="margin-top-15">
-                              <p>Welcome to the Building Your Business tab! Here you will find all the information for basics to building your own Doterra Business! Watch my welcome video!</p>
+                              <p>Welcome to the building portion of Doterra! Take a listen to my story and why I share these oils with others and enjoy earning an income doing what I love! </p>
                           </div>
                           <div class="building youtube-wrapper">
-                             <iframe width="700" height="400" src="https://www.youtube.com/embed/kAkMKAaDpWU" frameborder="0" allowfullscreen></iframe>
+                             <iframe src="https://player.vimeo.com/video/389094184" width="640" height="427" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+````````````````````````````<p><a href="https://vimeo.com/389094184">Welcome intro to the building portion tab of Doterra!</a> `````````````````````````````from <a href="https://vimeo.com/michellecannon">Michelle Cannon</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
                           </div>
-                          <div class="margin-top-15">
-                              <h5>Now let's get started..</h5>
-                              <p>First things first. You need to be on the LRP (Loyalty Reward Program) in order to earn commissions! Watch this video on LRP!</p>
-                              <div class="building youtube-wrapper">
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/3H1wOkfcw7Y" frameborder="0" allowfullscreen></iframe>
-                              </div>
-                          </div>
-                          <div class="margin-top-15">
-                              <div class="building youtube-wrapper">
-                                <h5>How to set up your LRP order</h5>
-                                <iframe width="700" height="400" src="https://www.youtube.com/embed/IU91FhDUc1Y" frameborder="0" allowfullscreen></iframe>
-                              </div>
-                          </div>
-                          <div class="margin-top-15">
-                              <div class="building youtube-wrapper">
-                                <h5>The culture of Doterra</h5>
-                                <iframe width="700" height="400" src="https://www.youtube.com/embed/tD0iRqdK-k4" frameborder="0" allowfullscreen></iframe>
-                              </div>
-                          </div>
-                          <div class="margin-top-15">
-                              <h5>Discover your WHY in Doterra</h5>
-                              <p>Why do you want to share these amazing oils? Why do you want to earn an income and be a stay at home mother or father? Why do you need this in your life? Everyone’s WHY is different so lets discover yours!</p>
-                              <div class="building youtube-wrapper">
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/vWKU59Feaog" frameborder="0" allowfullscreen></iframe>
-                              </div>
-                          </div>
-                          <div class="margin-top-15">
-                              <div class="building youtube-wrapper">
-                                  <h5>Your membership overview</h5>
-                                  <p>For a copy of this membership overview, click <a href="http://bit.ly/2jKJbrZ" target="_blank"><i>here</i></a>. The password is "edge".</p>
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/6oyRb7YyK-c" frameborder="0" allowfullscreen></iframe>
-                              </div>
-                          </div>
-                          <div class="margin-top-15">
-                              <div class="building youtube-wrapper">
-                                  <h5>The Business Opportunity</h5>
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/3AtgFHOEAE8" frameborder="0" allowfullscreen></iframe>
-                              </div>
-                          </div>
+                          
                           <div class="margin-top-15">
                               <div class="building youtube-wrapper">
                                   <h5>Two videos on Doterra's Compensation Plan</h5>
