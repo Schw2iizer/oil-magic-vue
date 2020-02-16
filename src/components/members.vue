@@ -181,76 +181,22 @@
                              <iframe width="700" height="400" src="https://www.youtube.com/embed/C3z5jHp_vHk?list=PLp3VbOdUkkm3rM7lw5Dh2PZpNZ_uB5TKw" frameborder="0" allowfullscreen></iframe>
                           </div>
                       </div>
-                      <div id="menu3" class="tab-pane fade">
+                      <div id="menu3" class="tab-pane fade" style="text-align: center;">
                           <div class="margin-top-15">
                               <p>Welcome to the building portion of Doterra! Take a listen to my story and why I share these oils with others and enjoy earning an income doing what I love! </p>
                           </div>
                           <div class="building youtube-wrapper">
                              <iframe src="https://player.vimeo.com/video/389094184" width="640" height="427" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-````````````````````````````<p><a href="https://vimeo.com/389094184">Welcome intro to the building portion tab of Doterra!</a> `````````````````````````````from <a href="https://vimeo.com/michellecannon">Michelle Cannon</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
                           </div>
-                          
                           <div class="margin-top-15">
                               <div class="building youtube-wrapper">
-                                  <h5>Two videos on Doterra's Compensation Plan</h5>
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/Q_CnFpP1h88" frameborder="0" allowfullscreen></iframe>
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/i81FJwrw4Z4" frameborder="0" allowfullscreen></iframe>
+                                  <p>How do we dive into this business and begin? Might seem scary, or confusing right? We have it so DARN simple that you can begin right now!  We use this amazing step by step program called the<i><a href="https://dailymentorcalls.com/daily-mentor-calls-subscriptionabc123">Daily Mentor Calls</a></i>. 
+                                It will walk you through step by step on how to begin and build a thriving business!  </p>
+                                <p>All you do is subscribe for free to get started! You will never be charged, this is just a way for me to get all the info sent directly to your email! From that point, lets set up a time to have a business strategy call  My cell is 801-360-3608. Text me and we will get you on the calendar! I, along with our oil building community, will be your guide to walk you through all of these steps and how to start!</p>
+                                <p>
+                                    Be sure you are following our business page on <i><a href="https://www.facebook.com/groups/182180212278173/"> Facebook</a></i> too if you aren't already. We do weekly biz calls, and post regularly on biz tips and ideas! We have an amazing community all over the world full of incredible leaders! Come join in! We want to have you in our amazing building community! 
+                                </p>
                               </div>
-                          </div>
-                          <div class="margin-top-15">
-                              <div class="building youtube-wrapper">
-                                  <h5>How to teach a class</h5>
-                                  <p>This video is great! I also have class videos saved on my Facebook Page, <a href="https://www.facebook.com/oilmagicbymichelle" target="_blank"><i>Oilmagicbymichelle</i></a>. Go check out some other classes I have taught!</p>
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/zi5dUzEYbgY" frameborder="0" allowfullscreen></iframe>
-                              </div>
-                          </div>
-                          <div class="margin-top-15">
-                              <div class="building youtube-wrapper">
-                                  <h5>How to host an online party</h5>
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/sm_74xhAQsI?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
-                              </div>
-                          </div>
-                          <div class="margin-top-15">
-                              <div class="building youtube-wrapper">
-                                  <h5>How to enroll someone as a wholesale customer or Wellness Advocate</h5>
-                                 <iframe width="700" height="400" src="https://www.youtube.com/embed/TxxeMb7TtYs" frameborder="0" allowfullscreen></iframe>
-                             </div>
-                          </div>
-                          <div class="margin-top-15">
-                              <div class="building youtube-wrapper">
-                                  <h5>How to book classes from classes</h5>
-                                <iframe width="700" height="400" src="https://www.youtube.com/embed/gcuXnG2xdoA?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
-                            </div>
-                          </div>
-                          <div class="margin-top-15">
-                              <div class="building youtube-wrapper">
-                                  <h5>How to work with a host</h5>
-                                <iframe width="700" height="400" src="https://www.youtube.com/embed/UNduJF8jE3I?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
-                            </div>
-                          </div>
-                          <div class="margin-top-15">
-                              <div class="building youtube-wrapper">
-                                  <h5>How to jump start your business</h5>
-                                <iframe width="700" height="400" src="https://www.youtube.com/embed/npHi_Buzx4c" frameborder="0" allowfullscreen></iframe>
-                            </div>
-                          </div>
-                          <div class="margin-top-15">
-                              <div class="building youtube-wrapper">
-                                  <h5>The Art of Finding Builders</h5>
-                                <iframe width="700" height="400" src="https://www.youtube.com/embed/FRfP9cLa8ms?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
-                            </div>
-                          </div>
-                          <div class="margin-top-15">
-                              <div class="building youtube-wrapper">
-                                  <h5>Duplication</h5>
-                                <iframe width="700" height="400" src="https://www.youtube.com/embed/UH_NeMCBFQ4?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
-                            </div>
-                          </div>
-                          <div class="margin-top-15">
-                              <div class="building youtube-wrapper">
-                                  <h5>Placements and Strategy for building your business</h5>
-                                <iframe width="700" height="400" src="https://www.youtube.com/embed/q0dY_P8DHZk?list=PLQtkrPqaRXTj_eZgCjs0wkS7WdjJcVUbX" frameborder="0" allowfullscreen></iframe>
-                            </div>
                           </div>
                       </div>
                       <div id="menu4" class="tab-pane fade">
