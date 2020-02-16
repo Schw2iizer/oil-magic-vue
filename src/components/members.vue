@@ -148,7 +148,7 @@
                               <h5>Doterra Blog</h5>
                               <p>Follow along 
                                   <i>
-                                      <a href="https://www.doterra.com/US/en/blog/healthy-living" target="_blank">here</a>
+                                      <a href="https://www.doterra.com/US/en/blog/healthy-living" target="_blank">HERE</a>
                                   </i>
                                   with Doterra Blog for fun DIY's and more on oil education. 
                               </p>
@@ -194,13 +194,13 @@
                                 It will walk you through step by step on how to begin and build a thriving business!  </p>
                                 <p>All you do is subscribe for free to get started! You will never be charged, this is just a way for me to get all the info sent directly to your email! From that point, lets set up a time to have a business strategy call. My cell is 801-360-3608. Text me and we will get you on the calendar! I, along with our oil building community, will be your guide to walk you through all of these steps and how to start!</p>
                                 <p>
-                                    Be sure you are following our business page on <i><a href="https://www.facebook.com/groups/182180212278173/" target="_blank"> Facebook</a></i> too if you aren't already. We do weekly biz calls, and post regularly on biz tips and ideas! We have an amazing community all over the world full of incredible leaders! Come join in! We want to have you in our amazing building community! 
+                                    Be sure you are following our business page at <i><a href="https://www.facebook.com/groups/182180212278173/" target="_blank"> Facebook</a></i> if you aren't already. We do weekly biz calls, and post regularly on biz tips and ideas! We have an amazing community all over the world full of incredible leaders! Come join in! We want to have you in our amazing building community! 
                                 </p>
                                 <p>
                                     Are you ready to start earning an income? Amazing how we can do this by sharing these  products right?! Look at the composition plan <i><a href="https://www.doterra.com/US/en/brochures-magazines-building-doterra-naturally-compensation" target="_blank">HERE</a></i> and a few details about how we earn a commission sharing these products with others! 
                                 </p>
                                 <p>
-                                    Also follow along with Doterra and their business <i><a href="https://www.youtube.com/channel/UC6XZMBCgShL1ovpNkNfHl6A" target="_blank"> YOUTUBE</a></i> page.
+                                    Also, follow along with Doterra and their business <i><a href="https://www.youtube.com/channel/UC6XZMBCgShL1ovpNkNfHl6A" target="_blank"> YOUTUBE</a></i> page.
                                     Can't WAIT to get you started on your journey!
                                 </p>
                                 <p>
