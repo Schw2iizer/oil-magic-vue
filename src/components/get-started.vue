@@ -1,7 +1,7 @@
 <template lang="html">
     <div class="how-to-wrapper">
         <div id="content">
-          <section class="sub-banner animated fadeIn" style="background:url(images/lavender-fields2.jpg) no-repeat center; background-size: 100% auto">
+          <section class="sub-banner">
             <div class="container">
               <div class="position-center-center">
                 <h2>HOW TO GET STARTED</h2>
@@ -55,5 +55,11 @@ export default {
     }
     .how-to-wrapper p {
         color: black;
+    }
+    .how-to-wrapper .sub-banner {
+        min-height: 615px;
+        background:url(images/michelle_skye.jpg) no-repeat center; background-size: 100%;
+        background-position: 50% 42%;
+
     }
 </style>

@@ -96,7 +96,7 @@ export default {
 
 <style lang="css">
     .contact-me-wrapper .contact.light-border #contact_form li .form-control:focus {
-        border: 1px solid #00cdcd !important;
+        border: 1px solid #C8BCB3 !important;
 
     }
     .contact-me-wrapper .sub-banner {

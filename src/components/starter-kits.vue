@@ -285,7 +285,7 @@ export default {
         cursor: pointer;
     }
     .starter-kits-wrapper .portfolio-overlay span a:hover {
-        color: #00cdcd;
+        color: #C8BCB3;
     }
     .starter-kits-wrapper .portfolio-overlay h3 {
         font-size: 13px;

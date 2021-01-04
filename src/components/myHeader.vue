@@ -98,7 +98,7 @@ export default {
                 showCancelButton: true,
                 confirmButtonText: 'Submit',
                 showLoaderOnConfirm: true,
-                confirmButtonColor: '#00cdcd',
+                confirmButtonColor: '#C8BCB3',
                 preConfirm: function (password) {
                     return new Promise(function (resolve, reject) {
                         if (password === 'Lemon123') {

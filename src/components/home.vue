@@ -1,7 +1,7 @@
 <template lang="html">
     <div class="home-wrapper">
         <div class="content">
-            <section class="sub-banner animated fadeIn" style="background:url(images/michelle_family.jpg) no-repeat center; background-size: 100% auto">
+            <section class="sub-banner animated fadeIn">
               <div class="container">
                 <div class="position-center-center">
                   <h2></h2>
@@ -30,10 +30,10 @@ export default {
 
 <style lang="css">
     .home-wrapper .sky-blue-font {
-        color: #00cdcd !important;
+        color: #C8BCB3 !important;
     }
     .home-wrapper a {
-        color: #00cdcd !important;
+        color: #C8BCB3 !important;
     }
     .home-wrapper .heading-block.style-4 h4 {
         font-size: 40px !important;
@@ -44,5 +44,8 @@ export default {
     }
     .home-wrapper .sub-banner {
         min-height: 615px;
+        background:url(images/new_family_pic.jpg) no-repeat center; background-size: 100%;
+        background-position: 50% 70%;
+
     }
 </style>

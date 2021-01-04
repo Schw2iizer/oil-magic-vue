@@ -22,6 +22,6 @@ export default {
 
 <style lang="css">
     .not-found-wrapper h4 {
-        color: #00cdcd !important;
+        color: #C8BCB3 !important;
     }
 </style>
