@@ -28,7 +28,7 @@
                 </div>
                 <div class="heading-block no-margin-bottom">
                   <h5 class="margin-bottom-20 margin-top-0">
-                     <span>My <a href="https://www.instagram.com/oilmagicbymichelle" target="_blank">Instagram</a>, where I educate every single day!</span>
+                     <span>My <a href="https://www.instagram.com/lifesimplymichelle" target="_blank">Instagram</a>, where I educate every single day!</span>
                   </h5>
                 </div>
                 <div class="heading-block no-margin-bottom">

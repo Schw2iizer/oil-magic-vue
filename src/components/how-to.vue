@@ -30,7 +30,7 @@
                 </p>
                 <h5>Additional aromatic uses for Essential Oils include:</h5>
                 <ul>
-                    <li>Most common use for Aromatic is to grab your diffuser, fill it up with water to the required amount, and add 4-6 drops of oils of choice. You can add one oil, or blend different oils together! I always recommend experimenting and finding what diffuser blends you love! Check out my <a href="https://www.instagram.com/oilmagicbymichelle/">Instagram</a> under my highlight bubble titled diffuser blends! </li>
+                    <li>Most common use for Aromatic is to grab your diffuser, fill it up with water to the required amount, and add 4-6 drops of oils of choice. You can add one oil, or blend different oils together! I always recommend experimenting and finding what diffuser blends you love! Check out my <a href="https://www.instagram.com/lifesimplymichelle/">Instagram</a> under my highlight bubble titled diffuser blends! </li>
                     <li>Apply oil to a cotton ball and place in the air vents of your vehicle</li>
                     <li>Mix oils in a spray bottle with water and mist over furniture, carpet, or linens</li>
                     <li>Add oil to a batch of laundry or to dryer sheets</li>

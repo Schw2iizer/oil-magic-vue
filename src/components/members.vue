@@ -24,7 +24,7 @@
                           <div class="margin-top-15">
                               <p>Welcome to Oil Magic community! This tab will help you learn and get educated on all the products Doterra has to offer and how making a natural lifestyle can be easy, simply by education! Be sure to follow our private Facebook page to watch weekly live classes that me and my top leaders teach. Click <i><a href="https://www.facebook.com/groups/531448217013094/?ref=share" target="_blank">HERE</a></i>.
                               </p>
-                              <p>Also, don't forget to stay up to date with my Instagram feed as well! I educate on that page daily. Click    <i><a href="https://www.instagram.com/oilmagicbymichelle/?hl=en" target="_blank">HERE</a></i>.
+                              <p>Also, don't forget to stay up to date with my Instagram feed as well! I educate on that page daily. Click    <i><a href="https://www.instagram.com/lifesimplymichelle/?hl=en" target="_blank">HERE</a></i>.
                               </p>
                               <p>I will approve you once you have added yourself! Explore this tab and learn all about these amazing products so you can dive in and start Living the Doterra lifestyle! Again, WELCOME to our amazing oily community!!! We are so blessed to have you! - Michelle
                               </p>
