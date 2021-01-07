@@ -1,7 +1,9 @@
 <template lang="html">
     <div class="about-wrapper">
         <div id="content">
-          <section class="sub-banner">
+          <section class="sub-banner" style="background:url(images/new_family_pic2.jpg) no-repeat center;
+          background-size: 100%;
+          background-position: 50% 70%;">
             <div class="container">
               <div class="position-center-center">
                 <h2>HELLO, I’M MICHELLE CANNON</h2>
@@ -65,10 +67,6 @@ export default {
 </script>
 
 <style lang="css" scoped>
-  .about-wrapper .sub-banner {
-    background:url(images/new_family_pic2.jpg) no-repeat center; background-size: 100%;
-    background-position: 50% 70%;
-  }
   @media only screen and (max-device-width: 415px) {
     .col-md-5.my-family {
       margin-bottom: 30px;
