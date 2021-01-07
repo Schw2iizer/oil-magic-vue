@@ -1,7 +1,9 @@
 <template lang="html">
     <div class="home-wrapper">
         <div class="content">
-            <section class="sub-banner animated fadeIn banner-image">
+            <section class="sub-banner animated fadeIn banner-image" style="background: url(images/HDT_1504.jpg) no-repeat;
+            background-size: 100%;
+            background-position: 50% 70%;">
               <div class="container">
                 <div class="position-center-center">
                   <h2></h2>
@@ -44,9 +46,6 @@ export default {
     }
     .home-wrapper .banner-image {
         min-height: 615px;
-        background: url(images/HDT_1504.jpg) no-repeat;
-        background-size: 100%;
-        background-position: 50% 70%;
 
     }
 </style>
