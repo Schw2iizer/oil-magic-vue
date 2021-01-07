@@ -1,7 +1,7 @@
 <template lang="html">
     <div class="how-to-wrapper">
         <div id="content">
-          <section class="sub-banner">
+          <section class="sub-banner" style="background:url(images/michelle_skye.jpg) no-repeat center; background-size: 100%; background-position: 50% 42%;">
             <div class="container">
               <div class="position-center-center">
                 <h2>HOW TO GET STARTED</h2>
@@ -58,8 +58,5 @@ export default {
     }
     .how-to-wrapper .sub-banner {
         min-height: 615px;
-        background:url(images/michelle_skye.jpg) no-repeat center; background-size: 100%;
-        background-position: 50% 42%;
-
     }
 </style>
