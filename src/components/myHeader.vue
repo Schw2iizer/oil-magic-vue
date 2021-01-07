@@ -30,7 +30,7 @@
           <div class="container">
             <div class="logo">
                 <a href="/">
-                    <img class="oil-magic-logo" src="images/logo.png" alt="">
+                    <img class="oil-magic-logo" src="images/new_logo.png" alt="">
                 </a>
             </div>
             <nav>
