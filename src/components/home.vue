@@ -1,7 +1,7 @@
 <template lang="html">
     <div class="home-wrapper">
         <div class="content">
-            <section class="sub-banner animated fadeIn">
+            <section class="sub-banner animated fadeIn banner-image">
               <div class="container">
                 <div class="position-center-center">
                   <h2></h2>
@@ -42,9 +42,10 @@ export default {
     .home-wrapper a:hover {
         color: black !important;
     }
-    .home-wrapper .sub-banner {
+    .home-wrapper .banner-image {
         min-height: 615px;
-        background:url(images/new_family_pic.jpg) no-repeat center; background-size: 100%;
+        background: url(images/new_family_pic.jpg) no-repeat;
+        background-size: 100%;
         background-position: 50% 70%;
 
     }
