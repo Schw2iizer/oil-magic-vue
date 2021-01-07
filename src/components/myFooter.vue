@@ -7,7 +7,7 @@
                 <div class="row">
                   <div class="col-md-4">
                     <div class="block block-about">
-                      <h3 class="block-title no-underline"><span class="text-primary">Oil Magic by Michelle</span></h3>
+                      <h3 class="block-title no-underline"><span class="text-primary">Life Simply Michelle</span></h3>
                       <div class="block-content">
                         <p>We use essential oils to maintain a healthy lifestyle for our family. We clean with them, cook with them, basically our life revolves around our essential oils! About 6 years ago we started on our journey with essential oils for two basic needs: immune support and digestive support.</p>
                     </div>
@@ -50,7 +50,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-6 copyright">
-                    <p>&copy; {{this.currentYear}} Oil Magic by Michelle</p>
+                    <p>&copy; {{this.currentYear}} Life Simply Michelle</p>
                   </div>
                   <div class="col-md-6 social-links">
                     <ul class="right">
