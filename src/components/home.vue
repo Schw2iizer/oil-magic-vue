@@ -44,7 +44,7 @@ export default {
     }
     .home-wrapper .banner-image {
         min-height: 615px;
-        background: url(images/new_family_pic.jpg) no-repeat;
+        background: url(images/HDT_1504.jpg) no-repeat;
         background-size: 100%;
         background-position: 50% 70%;
 
