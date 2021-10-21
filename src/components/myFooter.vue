@@ -54,7 +54,7 @@
                   </div>
                   <div class="col-md-6 social-links">
                     <ul class="right">
-                      <li><a href="https://www.facebook.com/oilmagicbymichelle" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                      <li><a href="https://www.facebook.com/Lifesimplymichelle/" target="_blank"><i class="fa fa-facebook"></i></a></li>
                       <li><a href="https://www.instagram.com/lifesimplymichelle" target="_blank"><i class="fa fa-instagram"></i></a></li>
                     </ul>
                   </div>

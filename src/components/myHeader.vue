@@ -69,8 +69,8 @@
                 </li>
                 <!-- <li><router-link :to="{ path: 'contact' }">Contact</router-link></li> -->
                 <li><router-link :to="{path: 'team'}">Team</router-link></li>
-                <li><a href="https://oilmagicbymichelle.blogspot.com/" target="_blank" rel="noreferrer">Blog</a></li>
                 <li @click="getPassword()" class="pointer copy-link-styles">Members</li>
+                <li><a href="https://lennon-hair-co.myshopify.com/" target="_blank" rel="noreferrer">Lennon</a></li>
               </ul>
             </nav>
           </div>
