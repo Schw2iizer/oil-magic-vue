@@ -16,7 +16,7 @@
             </ul>
           </div>
           <div class="col-md-6 text-right social-top">
-              <a href="https://www.facebook.com/oilmagicbymichelle" target="_blank">
+              <a href="https://www.facebook.com/Lifesimplymichelle/" target="_blank">
                   <i class=" fa fa-facebook"></i>
               </a>
               <a href="https://www.instagram.com/lifesimplymichelle" target="_blank">
